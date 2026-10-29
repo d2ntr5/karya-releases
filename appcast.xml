@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.22</title>
-      <pubDate>Thu, 29 Oct 2026 16:49:23 +0000</pubDate>
-      <sparkle:version>108</sparkle:version>
-      <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+      <title>Karya 0.1.23</title>
+      <pubDate>Thu, 29 Oct 2026 16:56:32 +0000</pubDate>
+      <sparkle:version>109</sparkle:version>
+      <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>마우스를 캘린더 위에 두고 <b>⌘A</b>를 누르면 그 주의 블록(기간 줄 포함)이 모두 선택됩니다. 입력 칸에서는 원래대로 글자를 모두 선택합니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.22.zip" length="3438299" type="application/octet-stream" sparkle:edSignature="AuxVN/u7KHhFnmndcLUUM2iLzzNys65e1x4PiOlIjpt8SUDe7xvJecH/DGqtKf1ZUJt0jyzu37smnP/nK4uGAg=="/>
+      <description><![CDATA[<ul><li>캘린더 블록과 카드는 누를 때마다 하나씩 더해서 선택됩니다(다시 누르면 그것만 빠짐). 전에는 하나를 누르면 다른 선택이 풀렸습니다.</li><li>캘린더 위쪽 오른쪽에 <b>전체 선택 / 전체 해제</b> 버튼(그 주의 블록).</li><li>0.1.22의 ⌘A(캘린더 위에서 모두 선택)는 동작하지 않아 뺐습니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.23.zip" length="3439042" type="application/octet-stream" sparkle:edSignature="2WQM9flu8wXY/63DPPGkFWHrNLHSva2l9BZSzEGpuRhxNKlpSulgFZaq/2uF2mQDiNA3G0ZlL6Uo7yzyC9xSBg=="/>
     </item>
   </channel>
 </rss>
