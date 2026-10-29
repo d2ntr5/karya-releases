@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.14</title>
-      <pubDate>Thu, 29 Oct 2026 15:36:28 +0000</pubDate>
-      <sparkle:version>95</sparkle:version>
-      <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+      <title>Karya 0.1.15</title>
+      <pubDate>Thu, 29 Oct 2026 16:10:41 +0000</pubDate>
+      <sparkle:version>100</sparkle:version>
+      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>앱 안 업데이트 시험용 릴리즈입니다. 0.1.13에서 위쪽 <b>업데이트</b> 버튼(또는 설정 › 업데이트 › <b>업데이트 확인…</b>)으로 이 버전을 설치해 보세요. 기능 변경은 없습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.14.zip" length="3365611" type="application/octet-stream" sparkle:edSignature="xwLB5cQCNI/RIHPqJRNrmAc6GPaeJqneFyB7RiFy896p46dSz3o6I9UkeFZX3Y4k/agVg6horrHeFoaFq5OBAw=="/>
+      <description><![CDATA[<ul><li>업데이트 창과 맥 기본 메뉴가 한국어로 나옵니다.</li><li>설정의 Jira 토큰·Gemini 키는 버튼을 누르지 않아도 Return을 누르거나 탭을 옮기면 저장됩니다.</li><li>위쪽 오른쪽 「설정」 버튼을 뺐습니다. 왼쪽 톱니(⚙)로 엽니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.15.zip" length="3384777" type="application/octet-stream" sparkle:edSignature="ekHzZ7ugNOn7K+jD3QSTmO+SZLfGnFv1hcAHKUhr936taN1SKnyhRYZ5A7h/k+w7LWg51Mgtfx5qseI05n7UCQ=="/>
     </item>
   </channel>
 </rss>
