@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.16</title>
-      <pubDate>Thu, 29 Oct 2026 16:13:42 +0000</pubDate>
-      <sparkle:version>101</sparkle:version>
-      <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+      <title>Karya 0.1.17</title>
+      <pubDate>Thu, 29 Oct 2026 16:21:16 +0000</pubDate>
+      <sparkle:version>102</sparkle:version>
+      <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>한국어 업데이트 창 확인용 릴리즈입니다. 0.1.15에서 이 버전으로 업데이트할 때 창의 제목·안내·버튼이 모두 한국어로 나옵니다. 기능 변경은 없습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.16.zip" length="3384783" type="application/octet-stream" sparkle:edSignature="Fcww5k5Qcqdv97n2xRCRyQME/wzHvqgyTEAux9AAh1gctyRvg/eDd+o+zv32POCTkRZYLDAd7ZCdrEJstfV2Bw=="/>
+      <description><![CDATA[<ul><li>앱을 열 때 바로 새 버전을 확인해 위쪽 <b>업데이트</b> 버튼을 켭니다(전에는 하루를 기다렸습니다).</li><li>업데이트 창에서 <b>나중에</b>를 눌러도 버튼이 켜진 채로 남습니다. <b>이 버전 건너뛰기</b>를 누르면 꺼집니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.17.zip" length="3384747" type="application/octet-stream" sparkle:edSignature="ml8EfKU0Whh86WQcw8Uy6q/4XjLfZYcwmJYr1UBgh0Ye8UnOu1PxLCMzLke1fcr+yrwOMjJPZI3tqDQT7hXrCw=="/>
     </item>
   </channel>
 </rss>
