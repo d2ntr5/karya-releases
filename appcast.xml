@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.23</title>
-      <pubDate>Thu, 29 Oct 2026 16:56:32 +0000</pubDate>
-      <sparkle:version>109</sparkle:version>
-      <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+      <title>Karya 0.1.24</title>
+      <pubDate>Thu, 29 Oct 2026 17:14:15 +0000</pubDate>
+      <sparkle:version>111</sparkle:version>
+      <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>캘린더 블록과 카드는 누를 때마다 하나씩 더해서 선택됩니다(다시 누르면 그것만 빠짐). 전에는 하나를 누르면 다른 선택이 풀렸습니다.</li><li>캘린더 위쪽 오른쪽에 <b>전체 선택 / 전체 해제</b> 버튼(그 주의 블록).</li><li>0.1.22의 ⌘A(캘린더 위에서 모두 선택)는 동작하지 않아 뺐습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.23.zip" length="3439042" type="application/octet-stream" sparkle:edSignature="2WQM9flu8wXY/63DPPGkFWHrNLHSva2l9BZSzEGpuRhxNKlpSulgFZaq/2uF2mQDiNA3G0ZlL6Uo7yzyC9xSBg=="/>
+      <description><![CDATA[<ul><li>AI 분류 중 「응답이 길이 한도에서 잘렸습니다」로 카드를 건너뛰던 것: Gemini 응답이 같은 내용을 되풀이하며 끝나지 않을 때 생깁니다. 응답 형식에 개수·길이 상한을 두고, 잘리면 한 번 더 시도합니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.24.zip" length="3444525" type="application/octet-stream" sparkle:edSignature="vkTwQ3L9mvNF8SYruJ3RT3TJni1Ke3MiVDbddbtZCltFsu/rtyDebP60nCTM0xKFqBDsGqH3nOIeaq2ME5eOAw=="/>
     </item>
   </channel>
 </rss>
