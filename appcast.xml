@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.20</title>
-      <pubDate>Thu, 29 Oct 2026 16:36:53 +0000</pubDate>
-      <sparkle:version>105</sparkle:version>
-      <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+      <title>Karya 0.1.21</title>
+      <pubDate>Thu, 29 Oct 2026 16:39:00 +0000</pubDate>
+      <sparkle:version>106</sparkle:version>
+      <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>새 버전 확인을 하루 한 번에서 <b>앱을 열 때·1시간마다·30분 넘게 다른 창에 있다가 돌아올 때</b>로 늘렸습니다. 릴리즈 직후 몇 분은 「최신 버전입니다」로 나올 수 있습니다(배포 주소가 최대 5분 예전 내용을 보여 줌).</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.20.zip" length="3423078" type="application/octet-stream" sparkle:edSignature="1ZMXP0lr7pn6SQpS6CS4D8fNcrBRPL2wTJ7xx9uo+nY18pey49iaIk4Qy5Sf/tYOik+QyXdHF/DF0brKjCnECg=="/>
+      <description><![CDATA[<ul><li>캘린더에 보이는 시간(기본 08–20시) 밖까지 이어지는 일정이 칸을 넘어 다른 줄을 덮던 것을 고쳤습니다. 보이는 시간 안으로 잘라 그리고, 위·아래가 잘렸으면 ↑·↓ 표시를 붙입니다. 제목과 실제 시간은 그대로 보입니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.21.zip" length="3435313" type="application/octet-stream" sparkle:edSignature="aEkWz8/41c8ji5hYmxVZYRUGI9Qc/TcgRcd21nB9N+dhOAyx43tkYXeBdMRD8fRRXpfjYUIUKXqP5dJyFGZ+Ag=="/>
     </item>
   </channel>
 </rss>
