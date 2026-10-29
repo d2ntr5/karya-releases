@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.21</title>
-      <pubDate>Thu, 29 Oct 2026 16:39:00 +0000</pubDate>
-      <sparkle:version>106</sparkle:version>
-      <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+      <title>Karya 0.1.22</title>
+      <pubDate>Thu, 29 Oct 2026 16:49:23 +0000</pubDate>
+      <sparkle:version>108</sparkle:version>
+      <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>캘린더에 보이는 시간(기본 08–20시) 밖까지 이어지는 일정이 칸을 넘어 다른 줄을 덮던 것을 고쳤습니다. 보이는 시간 안으로 잘라 그리고, 위·아래가 잘렸으면 ↑·↓ 표시를 붙입니다. 제목과 실제 시간은 그대로 보입니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.21.zip" length="3435313" type="application/octet-stream" sparkle:edSignature="aEkWz8/41c8ji5hYmxVZYRUGI9Qc/TcgRcd21nB9N+dhOAyx43tkYXeBdMRD8fRRXpfjYUIUKXqP5dJyFGZ+Ag=="/>
+      <description><![CDATA[<ul><li>마우스를 캘린더 위에 두고 <b>⌘A</b>를 누르면 그 주의 블록(기간 줄 포함)이 모두 선택됩니다. 입력 칸에서는 원래대로 글자를 모두 선택합니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.22.zip" length="3438299" type="application/octet-stream" sparkle:edSignature="AuxVN/u7KHhFnmndcLUUM2iLzzNys65e1x4PiOlIjpt8SUDe7xvJecH/DGqtKf1ZUJt0jyzu37smnP/nK4uGAg=="/>
     </item>
   </channel>
 </rss>
