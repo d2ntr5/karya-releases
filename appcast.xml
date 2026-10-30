@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.45</title>
-      <pubDate>Fri, 30 Oct 2026 16:13:05 +0000</pubDate>
-      <sparkle:version>152</sparkle:version>
-      <sparkle:shortVersionString>0.1.45</sparkle:shortVersionString>
+      <title>Karya 0.1.46</title>
+      <pubDate>Fri, 30 Oct 2026 16:16:54 +0000</pubDate>
+      <sparkle:version>153</sparkle:version>
+      <sparkle:shortVersionString>0.1.46</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>Jira 일감에 작성 가이드 필드를 모두 넣습니다</b>: 이슈 유형 「작업」, 담당자 본인, <b>Team</b>(프로필), <b>CC</b>(프로필 팀원, 본인 제외), <b>Managed Type · Work Type 1 · 2 · 3</b>(AI 분류), 시작 날짜·기한, 레이블, ① 내부 기록이면 연관 고객. 분류 필드(Managed Type · WT1 · WT2)가 비어 있으면 보내지 않습니다(가이드 필수).</li><li><b>캘린더 블록 = 작업 기록(Clockwork)</b>: 모든 블록이 시작 시각과 길이 그대로 작업 시간으로 들어갑니다.</li><li><b>보낸 뒤에도 고치기</b>: 캘린더 위 <b>「Jira에서 가져오기」</b>로 이 주에 내가 남긴 작업 기록을 블록으로 가져오고(겹치면 겹친 채로), 시간·제목·본문·분류를 고친 뒤 <b>「Jira에 보내기」</b>를 누르면 <b>바뀐 것만</b> 반영합니다. 바뀐 블록은 주황색 「바뀜」. 그사이 Jira 웹에서 고쳐졌으면 덮지 않습니다. 앱은 Jira 일감을 지우지 않습니다.</li><li><b>휴가</b>: 제목 <code>[근태-연차]</code>, MSU001 · 에픽 Annual Leave(MSU001-529) 아래, 본문 「10/29(목) 연차 09:00–18:00」.</li><li><b>AI 분류 후보</b>를 WorkType 구조 창과 같게(MS_All + jira-users, 상위 키로 상하위, 우리 조직 Managed Type만). 제목은 업무 문서답게, 본문은 업무 성격별 틀로 — 원문에 없는 내용은 쓰지 않습니다. 일정 카드는 일정 시각을 AI에 알려 줍니다.</li><li>프로필 「팀원 (CC)」.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.45.zip" length="4345275" type="application/octet-stream" sparkle:edSignature="gGNebtnt1sfDAl/ZmemAxqqrcy5bwhcC7o1OMYFsYQ59F+Ut0EZP6vO6vVVMaGJ9CRC6dmAdsHBLZ2bziz4PBQ=="/>
+      <description><![CDATA[<ul><li><b>Jira로 보낸 일감은 「완료」로</b> 바꿉니다(Jira 관리 부서가 완료된 일감만 작성한 것으로 집계). 완료 일감은 고칠 수 없어서, 보낸 뒤 고칠 때는 잠깐 다시 열고(미해결) 고친 뒤 다시 완료로 바꿉니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.46.zip" length="4365066" type="application/octet-stream" sparkle:edSignature="TgwXAQDzhgG5Or629cy5fXI98A5DzXP47sSPVAJFPaWV+9EVOYuo97y34vTZz4GcI2ng+GjV9GN4vLIGpYBwDg=="/>
     </item>
   </channel>
 </rss>
