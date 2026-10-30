@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.42</title>
-      <pubDate>Fri, 30 Oct 2026 14:37:55 +0000</pubDate>
-      <sparkle:version>139</sparkle:version>
-      <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
+      <title>Karya 0.1.43</title>
+      <pubDate>Fri, 30 Oct 2026 14:43:48 +0000</pubDate>
+      <sparkle:version>140</sparkle:version>
+      <sparkle:shortVersionString>0.1.43</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>「WorkType 구조」 창을 WBS(상하위 트리)로</b> 바꿨습니다: 맨 위 Work Type 아래 Work Type 1 다섯 칸, 칸마다 Work Type 2가 선으로 이어지고, 「WT3 7」이 붙은 Work Type 2를 누르면 그 아래 Work Type 3가 펼쳐집니다. 번호는 1 / 1.1 / 1.1.1. 위쪽 <b>「전체 펼치기 / 전체 접기」</b> 버튼. 범위는 MS_All + jira-users만. 칸에 마우스를 올리면 회사 명세 설명이 보입니다. 열 때 실시간 Assets를 불러오고, 불러온 시각과 명세 날짜를 위에 적습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.42.zip" length="4031089" type="application/octet-stream" sparkle:edSignature="dIKdPRgjlE1X3UL7EHXEZ/mJG7y14NH448Id1iXlL/7V9JEsf5hGWz924oKvT9unFeG4hVbxNHy7R3G64Gr0BA=="/>
+      <description><![CDATA[<ul><li>휴가·연차 안내 줄의 <b>「고르기」</b>를 누르면 그 카드들을 고르고 <b>목록 맨 위로</b> 올립니다(정렬과 상관없이, 날짜 순).</li><li>메모 줄에 <b>「붙여넣기 → AI 카드」</b>(⌘⇧V): 클립보드의 글·이미지·파일을 카드로 만들고 AI가 바로 제목·설명·필드를 정리합니다. 파일은 메모 줄에 끌어 놓아도 됩니다. 읽는 것: 텍스트(.txt·.md·.csv·.json·.eml, EUC-KR 포함), PDF, Word(.docx)·RTF·HTML, 이미지·스크린샷(맥의 글자 인식, 한국어·영어). 엑셀은 아직 못 읽습니다. AI 설정이 없으면 카드만 만듭니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.43.zip" length="4101049" type="application/octet-stream" sparkle:edSignature="ihEykfh3yOoyiMBver4XEyivojhtmzo3uXz17vdvQ3ywtLQXBO3AxgmmQFSOuiYP/t+ynvUTbfdZPNcNUlBlCw=="/>
     </item>
   </channel>
 </rss>
