@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.41</title>
-      <pubDate>Fri, 30 Oct 2026 14:29:19 +0000</pubDate>
-      <sparkle:version>137</sparkle:version>
-      <sparkle:shortVersionString>0.1.41</sparkle:shortVersionString>
+      <title>Karya 0.1.42</title>
+      <pubDate>Fri, 30 Oct 2026 14:37:55 +0000</pubDate>
+      <sparkle:version>139</sparkle:version>
+      <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>0.1.40과 같습니다(0.1.40은 GitHub 일시 오류로 앱 안 업데이트가 게시되지 않았습니다). 0.1.40의 변경: AI 효과 원래대로, 안내 창 스크롤 없이, 휴가는 본인 것만.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.41.zip" length="4079849" type="application/octet-stream" sparkle:edSignature="ATdRXqOtsVArt8h4Vd3Y211oBp01RPYPtfrxeI2BFKxtEjJlKV+1SgkttNPgAAJ2qEVjTsI0lxHgNgMuaXYKDA=="/>
+      <description><![CDATA[<ul><li><b>「WorkType 구조」 창을 WBS(상하위 트리)로</b> 바꿨습니다: 맨 위 Work Type 아래 Work Type 1 다섯 칸, 칸마다 Work Type 2가 선으로 이어지고, 「WT3 7」이 붙은 Work Type 2를 누르면 그 아래 Work Type 3가 펼쳐집니다. 번호는 1 / 1.1 / 1.1.1. 위쪽 <b>「전체 펼치기 / 전체 접기」</b> 버튼. 범위는 MS_All + jira-users만. 칸에 마우스를 올리면 회사 명세 설명이 보입니다. 열 때 실시간 Assets를 불러오고, 불러온 시각과 명세 날짜를 위에 적습니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.42.zip" length="4031089" type="application/octet-stream" sparkle:edSignature="dIKdPRgjlE1X3UL7EHXEZ/mJG7y14NH448Id1iXlL/7V9JEsf5hGWz924oKvT9unFeG4hVbxNHy7R3G64Gr0BA=="/>
     </item>
   </channel>
 </rss>
