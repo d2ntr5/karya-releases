@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.25</title>
-      <pubDate>Fri, 30 Oct 2026 04:03:14 +0000</pubDate>
-      <sparkle:version>115</sparkle:version>
-      <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
+      <title>Karya 0.1.26</title>
+      <pubDate>Fri, 30 Oct 2026 04:21:14 +0000</pubDate>
+      <sparkle:version>117</sparkle:version>
+      <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>설정에서 Jira API 토큰(또는 Gemini 키)을 저장하거나 연결 확인을 누르면 앱이 멈추던(무지개 커서) 문제를 고쳤습니다. 키체인에 쓰는 동안 화면이 다시 그려지며 같은 키체인을 읽으려다 서로 기다렸습니다. 멈춘 동안에는 비밀번호 칸 때문에 보안 입력이 계속 켜져, 다른 앱(예: 한/영 전환 앱)이 키 입력을 받지 못했습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.25.zip" length="3445633" type="application/octet-stream" sparkle:edSignature="frpNII4XsXAsjb+Ghc8jts0fO1KQYzMvV0zb97JZddVF/5LHWI7ZZ4Fzea2SGZWkZnAbiQdM3ULneybfA4O/Bw=="/>
+      <description><![CDATA[<ul><li>캘린더에서 가져온 일정 카드가 모두 「가져온 시각 다음 정시 1시간」(예: 오늘 14:00–15:00)으로 놓이던 것: 이제 일정의 날짜·시간을 그대로 씁니다(종일 일정은 그날 하루). 이미 가져온 카드도 앱을 열면 바로잡힙니다(캘린더에 놓은 카드는 그대로). 시간이 없는 항목(예: 근무 위치 「직장」)은 전처럼 「(임시)」입니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.26.zip" length="3457826" type="application/octet-stream" sparkle:edSignature="M+ZxzK5SFFj6e5eynLK0/uYtXjVBV//OVk2x6dJYPUtmzD9dY46eTov2rNkS5u4TWcxr19VIa6rjp2A4ayJbCw=="/>
     </item>
   </channel>
 </rss>
