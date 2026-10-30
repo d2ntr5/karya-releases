@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.24</title>
-      <pubDate>Thu, 29 Oct 2026 17:14:15 +0000</pubDate>
-      <sparkle:version>111</sparkle:version>
-      <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
+      <title>Karya 0.1.25</title>
+      <pubDate>Fri, 30 Oct 2026 04:03:14 +0000</pubDate>
+      <sparkle:version>115</sparkle:version>
+      <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>AI 분류 중 「응답이 길이 한도에서 잘렸습니다」로 카드를 건너뛰던 것: Gemini 응답이 같은 내용을 되풀이하며 끝나지 않을 때 생깁니다. 응답 형식에 개수·길이 상한을 두고, 잘리면 한 번 더 시도합니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.24.zip" length="3444525" type="application/octet-stream" sparkle:edSignature="vkTwQ3L9mvNF8SYruJ3RT3TJni1Ke3MiVDbddbtZCltFsu/rtyDebP60nCTM0xKFqBDsGqH3nOIeaq2ME5eOAw=="/>
+      <description><![CDATA[<ul><li>설정에서 Jira API 토큰(또는 Gemini 키)을 저장하거나 연결 확인을 누르면 앱이 멈추던(무지개 커서) 문제를 고쳤습니다. 키체인에 쓰는 동안 화면이 다시 그려지며 같은 키체인을 읽으려다 서로 기다렸습니다. 멈춘 동안에는 비밀번호 칸 때문에 보안 입력이 계속 켜져, 다른 앱(예: 한/영 전환 앱)이 키 입력을 받지 못했습니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.25.zip" length="3445633" type="application/octet-stream" sparkle:edSignature="frpNII4XsXAsjb+Ghc8jts0fO1KQYzMvV0zb97JZddVF/5LHWI7ZZ4Fzea2SGZWkZnAbiQdM3ULneybfA4O/Bw=="/>
     </item>
   </channel>
 </rss>
