@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.39</title>
-      <pubDate>Fri, 30 Oct 2026 14:18:22 +0000</pubDate>
-      <sparkle:version>135</sparkle:version>
-      <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
+      <title>Karya 0.1.41</title>
+      <pubDate>Fri, 30 Oct 2026 14:29:19 +0000</pubDate>
+      <sparkle:version>137</sparkle:version>
+      <sparkle:shortVersionString>0.1.41</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>휴가·연차를 캘린더에 넣으면 그날 09:00–18:00 블록</b>으로 들어갑니다(「→ 추가」·끌어 놓기 모두, 여러 날이면 근무일마다). 전에 「기간」 줄에 종일로 들어간 휴가 블록은 앱을 열 때 09:00–18:00으로 옮깁니다(Jira로 보낸 블록은 그대로).</li><li>캘린더 작업 줄에 <b>「모든 주 N」</b>: 보이는 주만이 아니라 캘린더의 블록 전부를 고르거나 풉니다. 왼쪽 체크 칸은 그대로 「이 주」만.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.39.zip" length="4095473" type="application/octet-stream" sparkle:edSignature="nZqWsea/YDKdnws1h1RELzHpXGKEkCn9tDFpCxYbxRQ5U6qCFhhV9PCETSAQ/+sMp7wTkxgQiwa25bQn/37JBg=="/>
+      <description><![CDATA[<ul><li>0.1.40과 같습니다(0.1.40은 GitHub 일시 오류로 앱 안 업데이트가 게시되지 않았습니다). 0.1.40의 변경: AI 효과 원래대로, 안내 창 스크롤 없이, 휴가는 본인 것만.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.41.zip" length="4079849" type="application/octet-stream" sparkle:edSignature="ATdRXqOtsVArt8h4Vd3Y211oBp01RPYPtfrxeI2BFKxtEjJlKV+1SgkttNPgAAJ2qEVjTsI0lxHgNgMuaXYKDA=="/>
     </item>
   </channel>
 </rss>
