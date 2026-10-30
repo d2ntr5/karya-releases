@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.43</title>
-      <pubDate>Fri, 30 Oct 2026 14:43:48 +0000</pubDate>
-      <sparkle:version>140</sparkle:version>
-      <sparkle:shortVersionString>0.1.43</sparkle:shortVersionString>
+      <title>Karya 0.1.44</title>
+      <pubDate>Fri, 30 Oct 2026 14:47:58 +0000</pubDate>
+      <sparkle:version>141</sparkle:version>
+      <sparkle:shortVersionString>0.1.44</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>휴가·연차 안내 줄의 <b>「고르기」</b>를 누르면 그 카드들을 고르고 <b>목록 맨 위로</b> 올립니다(정렬과 상관없이, 날짜 순).</li><li>메모 줄에 <b>「붙여넣기 → AI 카드」</b>(⌘⇧V): 클립보드의 글·이미지·파일을 카드로 만들고 AI가 바로 제목·설명·필드를 정리합니다. 파일은 메모 줄에 끌어 놓아도 됩니다. 읽는 것: 텍스트(.txt·.md·.csv·.json·.eml, EUC-KR 포함), PDF, Word(.docx)·RTF·HTML, 이미지·스크린샷(맥의 글자 인식, 한국어·영어). 엑셀은 아직 못 읽습니다. AI 설정이 없으면 카드만 만듭니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.43.zip" length="4101049" type="application/octet-stream" sparkle:edSignature="ihEykfh3yOoyiMBver4XEyivojhtmzo3uXz17vdvQ3ywtLQXBO3AxgmmQFSOuiYP/t+ynvUTbfdZPNcNUlBlCw=="/>
+      <description><![CDATA[<ul><li>「WorkType 구조」 창에 <b>검색</b>: 이름·한글·번호로 찾으면 맞는 칸이 노랗게, 나머지는 흐리게. Work Type 3에서 찾으면 그 위 Work Type 2가 저절로 펼쳐집니다.</li><li><b>PDF 저장 · JPEG 저장</b>: 제목·날짜·지금 펼친 상태·검색 강조 그대로 한 장으로 저장합니다(JPEG는 2배 해상도).</li><li>메모 줄을 넓혔습니다: 여러 줄(3~6줄) 입력, 버튼 크게. Return은 메모 추가, ⌥Return은 줄바꿈.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.44.zip" length="4159603" type="application/octet-stream" sparkle:edSignature="QOFsgtj1tYLWGFyBEl3VZobabF4ij/TtqhOpUbSC7zVYxg0wcc6NBbjodlFgQ0wmqrm+o+Emw9NE4mIVCNNTAQ=="/>
     </item>
   </channel>
 </rss>
