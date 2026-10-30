@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.26</title>
-      <pubDate>Fri, 30 Oct 2026 04:21:14 +0000</pubDate>
-      <sparkle:version>117</sparkle:version>
-      <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
+      <title>Karya 0.1.27</title>
+      <pubDate>Fri, 30 Oct 2026 04:39:28 +0000</pubDate>
+      <sparkle:version>118</sparkle:version>
+      <sparkle:shortVersionString>0.1.27</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>캘린더에서 가져온 일정 카드가 모두 「가져온 시각 다음 정시 1시간」(예: 오늘 14:00–15:00)으로 놓이던 것: 이제 일정의 날짜·시간을 그대로 씁니다(종일 일정은 그날 하루). 이미 가져온 카드도 앱을 열면 바로잡힙니다(캘린더에 놓은 카드는 그대로). 시간이 없는 항목(예: 근무 위치 「직장」)은 전처럼 「(임시)」입니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.26.zip" length="3457826" type="application/octet-stream" sparkle:edSignature="M+ZxzK5SFFj6e5eynLK0/uYtXjVBV//OVk2x6dJYPUtmzD9dY46eTov2rNkS5u4TWcxr19VIa6rjp2A4ayJbCw=="/>
+      <description><![CDATA[<ul><li><b>AI 엔진으로 Claude를 고를 수 있습니다</b>: 설정 › AI 맨 위 「엔진」에서 Gemini 또는 Claude 중 하나를 고릅니다(둘을 섞거나 순서대로 쓰지 않음). Claude는 console.anthropic.com에서 만든 API 키를 넣고 「저장 후 모델 새로고침」을 누르면 Haiku 모델만 목록에 나옵니다. 사용량만큼 Anthropic 계정에 요금이 붙습니다.</li><li>고른 모델이 없어지면(서비스 종료 등) 다른 모델로 몰래 바꾸지 않고 AI 분류를 멈춥니다. 오류 창의 <b>AI 설정 열기</b>를 누르면 설정 › AI가 열리며 모델 목록을 새로 불러오고, 없어진 모델은 선택이 비워져 다시 고르면 됩니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.27.zip" length="3561152" type="application/octet-stream" sparkle:edSignature="BG+JKp8BGJM0UgTybUwOvHY0hQD/AF1vmhWRzDdX+Obn2rR9kaiLJ5cwhEb6DDp6tHfbsrtXxA7QvQ7HYvAMDw=="/>
     </item>
   </channel>
 </rss>
