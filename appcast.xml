@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.37</title>
-      <pubDate>Fri, 30 Oct 2026 13:29:33 +0000</pubDate>
-      <sparkle:version>132</sparkle:version>
-      <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
+      <title>Karya 0.1.38</title>
+      <pubDate>Fri, 30 Oct 2026 14:09:43 +0000</pubDate>
+      <sparkle:version>134</sparkle:version>
+      <sparkle:shortVersionString>0.1.38</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>AI 분류가 <b>최신 MSU Jira 명세</b>(Work Type 1·2·3 정의)를 씁니다. Business Management(사업관리)·MSP Certification·Tech_Solution·billing/Account Management와 Work Type 3(SR Pre Review 등) 설명이 새로 들어갔고, 2023년판보다 우선합니다. Managed Type 정의(인프라 관리 등)는 2023년판에서 옵니다.</li><li>같은 이름을 조직마다 다르게 정의한 것(MS / TSS)은 프로필 Team 코드에 맞는 쪽만 AI에게 보냅니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.37.zip" length="3864072" type="application/octet-stream" sparkle:edSignature="SkylA0G5ipTjWoa5cBcaMK0x0H7MK1PRjNwpNrCJsha3oG8fVSZMlQjP7SplTbo7Z2/DGQ6O10D7WKkPxxYcBg=="/>
+      <description><![CDATA[<ul><li>위쪽 <b>「WorkType 구조」</b> 버튼: 새 창에서 실시간 Assets(왼쪽)와 회사 명세(오른쪽)를 나란히 봅니다. Managed Type · Work Type 1›2 · Work Type 3, 가운데 기호(= 같음, ≠ 표기·한글 다름, ← 명세에만, → Assets에만), 서로 다른 글자는 노란색, 빈 쪽은 빗금. 범위(MS_All + jira-users / 전체)·차이만·꺼진 것·이름 찾기. 날짜: 실시간으로 불러온 시각과 명세 문서 날짜. 영어뿐인 명세 설명은 한글 번역(「번역」 표시).</li><li><b>AI 분류 중 카드 효과</b>를 키보드 백라이트처럼 바꿨습니다: 카드 밑에서 하늘빛이 새어 나와 번지고, 테두리가 빛나며, 빛줄기가 가장자리를 지나가고, 2.6초마다 빛 테가 퍼집니다.</li><li>최신 명세 문서 날짜를 2025-07-31로 바로잡았습니다(0.1.37에는 받은 날로 들어감).</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.38.zip" length="4082545" type="application/octet-stream" sparkle:edSignature="cIRdupdqtTkyVP5DyMMM2a5ZeoGN04v4xeltFg42MlwYKXbat5Eho0nIm/W9728PFdiGloNSa5T0Otk11N6RAg=="/>
     </item>
   </channel>
 </rss>
