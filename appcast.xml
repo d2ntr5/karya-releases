@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.29</title>
-      <pubDate>Fri, 30 Oct 2026 06:40:59 +0000</pubDate>
-      <sparkle:version>121</sparkle:version>
-      <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
+      <title>Karya 0.1.30</title>
+      <pubDate>Fri, 30 Oct 2026 06:48:50 +0000</pubDate>
+      <sparkle:version>122</sparkle:version>
+      <sparkle:shortVersionString>0.1.30</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>확장 프로그램에서 보낸 메일·일정이 앱에 들어오자마자 AI 분류가 돌던 것을 없앴습니다. 빠른 메모도 마찬가지입니다. AI는 카드를 고르고 「AI 분류」를 누를 때만(또는 카드 우클릭 › AI 다듬기) 돕니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.29.zip" length="3760960" type="application/octet-stream" sparkle:edSignature="nZaCcuWXQ1jE+6CklY/DmqwgEvVHppgv+nImkT3RdTZdi6w4bGtc9ygdKI4lGpETXM1648ouqJQ73hFYjXqFDw=="/>
+      <description><![CDATA[<ul><li>확장 프로그램 「현재 탭 내용을 Karya로」(캘린더)가 <b>탭에 보이는 주의 일정만</b> 보냅니다. 전에는 앞서 열어 본 다른 주(예: 이번 주)의 일정까지 같이 넘어갔습니다. 주소의 날짜로 보이는 기간(주·일·월)을 정하고, 일정에 적힌 날짜가 그 안에 드는 것만 보냅니다. 「오늘 / 이번 주 / 다음 주」 버튼도 같습니다.</li><li>「이번 주」 등으로 가져온 종일 일정의 제목이 「종일」로 들어가던 것을 고쳤습니다.</li><li>업데이트 후 Chrome에서 확장 프로그램을 <b>새로고침(↻)</b> 해야 적용됩니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.30.zip" length="3761563" type="application/octet-stream" sparkle:edSignature="PqUcvNHewxfV0HLCKNS1XTQ8kMeR0U4DDDcy1OwLv5NxVWOReesnOE69pf8atZt/4OOJE7pa4DcmePDVqHQsCA=="/>
     </item>
   </channel>
 </rss>
