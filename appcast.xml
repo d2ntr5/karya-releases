@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.27</title>
-      <pubDate>Fri, 30 Oct 2026 04:39:28 +0000</pubDate>
-      <sparkle:version>118</sparkle:version>
-      <sparkle:shortVersionString>0.1.27</sparkle:shortVersionString>
+      <title>Karya 0.1.28</title>
+      <pubDate>Fri, 30 Oct 2026 05:58:00 +0000</pubDate>
+      <sparkle:version>120</sparkle:version>
+      <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>AI 엔진으로 Claude를 고를 수 있습니다</b>: 설정 › AI 맨 위 「엔진」에서 Gemini 또는 Claude 중 하나를 고릅니다(둘을 섞거나 순서대로 쓰지 않음). Claude는 console.anthropic.com에서 만든 API 키를 넣고 「저장 후 모델 새로고침」을 누르면 Haiku 모델만 목록에 나옵니다. 사용량만큼 Anthropic 계정에 요금이 붙습니다.</li><li>고른 모델이 없어지면(서비스 종료 등) 다른 모델로 몰래 바꾸지 않고 AI 분류를 멈춥니다. 오류 창의 <b>AI 설정 열기</b>를 누르면 설정 › AI가 열리며 모델 목록을 새로 불러오고, 없어진 모델은 선택이 비워져 다시 고르면 됩니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.27.zip" length="3561152" type="application/octet-stream" sparkle:edSignature="BG+JKp8BGJM0UgTybUwOvHY0hQD/AF1vmhWRzDdX+Obn2rR9kaiLJ5cwhEb6DDp6tHfbsrtXxA7QvQ7HYvAMDw=="/>
+      <description><![CDATA[<ul><li><b>AI 분류는 고른 카드만</b> 합니다. 아무것도 안 고르면 버튼이 꺼집니다.</li><li>버튼을 패널마다 모았습니다(가운데 화살표 열은 없어짐). 두 패널 모두 「제목 줄 → 선택·작업 줄」이고, 작업 줄 맨 앞에 전체 선택 상자와 「N장 선택」이 있습니다.</li><li>카드 목록: <b>AI 분류 · 캘린더에 추가 →</b> … <b>삭제</b></li><li>캘린더: <b>← 목록으로 · Jira 일감 만들기</b> … <b>삭제</b> (Jira로 보낸 블록은 목록으로 빼거나 다시 보내지 않음)</li><li><b>Jira 일감 만들기</b>: 확인 창에서 블록마다 스페이스·WT2를 보여 주고, AI 분류 전이거나 검토가 필요한 블록에 표시가 붙습니다. 보내면 블록마다 보냄/실패가 나옵니다.</li><li><b>삭제</b>는 확인 창을 거칩니다.</li><li><b>자주 쓰는 필드 칩</b>: 누르면 그 값이 든 카드·블록만 골라집니다(다시 누르면 풀림). 칩에 개수가 보입니다. 카드·블록에 끌어 놓으면 그 값으로 바뀌는 건 그대로입니다.</li><li>카드 목록 「보기」 줄: 종류(전체·메일·일정·메모) 옆에 <b>둘 다 / 내 캘린더 / 다른 캘린더</b>(일정 카드만 거름). 보기를 바꾸면 선택이 풀립니다. 일정 카드에 캘린더 배지(내 캘린더 / 이마트 등)가 붙습니다.</li><li>카드나 블록 위에 마우스를 잠깐 올리면 <b>내용 풍선</b>(시간·제목·상태·캘린더·WT2·고객·위치·원문 앞부분)이 뜹니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.28.zip" length="3767006" type="application/octet-stream" sparkle:edSignature="9Pnnxa0K6p0tg15dlJutezvjzM8at+QHuykDprtvL88xTpdMc4nn4eT+ugzXt1ZpTmtsiJZNThr1NjfHxa6mBQ=="/>
     </item>
   </channel>
 </rss>
