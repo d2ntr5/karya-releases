@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.32</title>
-      <pubDate>Fri, 30 Oct 2026 07:25:31 +0000</pubDate>
-      <sparkle:version>124</sparkle:version>
-      <sparkle:shortVersionString>0.1.32</sparkle:shortVersionString>
+      <title>Karya 0.1.33</title>
+      <pubDate>Fri, 30 Oct 2026 12:58:05 +0000</pubDate>
+      <sparkle:version>127</sparkle:version>
+      <sparkle:shortVersionString>0.1.33</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>「이번 주」·월별로 가져온 일정이 모두 「(임시)」 시간으로 놓이던 것: 일정 글에서 날짜 뒤에 제목이 줄바꿈 없이 이어 붙어 시간을 못 읽었습니다. 이제 줄 안에서 시간·종일·날짜를 찾습니다. 이미 가져온 카드도 앱을 열면 바로잡힙니다.</li><li>종일 일정 제목 끝에 「종일」이 붙던 것(「[연차] 장서이종일」)을 고쳤습니다. 이미 가져온 카드도 바로잡힙니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.32.zip" length="3764826" type="application/octet-stream" sparkle:edSignature="3G78pYhcdgyjdFfMvtV9qjE0i9FW7iNoUkNuA0PyLvun8bHwgM2pLj4yvgS34PXC1yRHXbcdZC/OQpzBJcWWBA=="/>
+      <description><![CDATA[<ul><li><b>휴가·연차 고정</b>: 내 휴가·연차(내 캘린더의 종일 연차·휴가, 또는 근태 캘린더에서 내 이름이 든 「[연차] 이주호」 같은 일정)는 「AI 분류」 때 AI를 쓰지 않고 정해진 값으로 넣습니다 — Work Type <code>ETC *team-managed › Annual Leave</code>, 내부 스페이스, 하루 09:00–18:00. 여러 날 연차는 근무일마다 카드 1장(주말 제외). 카드에 「휴가·연차 고정」 표시.</li><li>가져온 카드에 내 휴가·연차가 있을 때만 카드 목록 위에 안내 줄과 「고르기」 버튼이 나옵니다. 다른 사람 근태(「[연차] 이혜연」)는 해당하지 않습니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.33.zip" length="3807813" type="application/octet-stream" sparkle:edSignature="KhU6DGnWjD8GhDHTqgtZdVIJhVRVch0WPqscQI50/n/O/5evSW1AYOxv3SL+B9jet37nWD0plu2nr2NYPNb1BA=="/>
     </item>
   </channel>
 </rss>
