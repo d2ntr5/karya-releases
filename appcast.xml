@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.35</title>
-      <pubDate>Fri, 30 Oct 2026 13:10:24 +0000</pubDate>
-      <sparkle:version>129</sparkle:version>
-      <sparkle:shortVersionString>0.1.35</sparkle:shortVersionString>
+      <title>Karya 0.1.36</title>
+      <pubDate>Fri, 30 Oct 2026 13:17:23 +0000</pubDate>
+      <sparkle:version>130</sparkle:version>
+      <sparkle:shortVersionString>0.1.36</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>휴가·연차 블록을 Jira로 보내면 작업 시간도 함께 남깁니다(09:00–18:00 = 9시간). 근무일마다 일감 1건.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.35.zip" length="3813618" type="application/octet-stream" sparkle:edSignature="Y+iPexRG04bz0/iAUxL6ZZYU2SpgfOOX1ltMHCj36Cqa+gISaHBJzbA9w3udgv9STFhQC9sFVajJ37ESuG7JCg=="/>
+      <description><![CDATA[<ul><li>AI 분류가 회사 <b>WorkType 명세</b>(Work Type 1·2의 한국어 이름과 설명, 2023-07-23판)를 판단 기준으로 씁니다. 예: CSI › Operations = 「옵스 — 조직 플래닝/매니징, 현황 분석 및 보고」, ETC › Other tasks = 「행정 업무 및 기타」. 앞으로 받는 명세도 날짜별로 더해집니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.36.zip" length="3837528" type="application/octet-stream" sparkle:edSignature="ENStjgZWIE7Z8IKmpblG9C4tqle4Ik4enWsMl2yir/O/xl3yUUV8d/QlCRxramgJabvzo9v6Y7IB+kUcnC0HCA=="/>
     </item>
   </channel>
 </rss>
