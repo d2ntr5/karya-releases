@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.31</title>
-      <pubDate>Fri, 30 Oct 2026 07:20:48 +0000</pubDate>
-      <sparkle:version>123</sparkle:version>
-      <sparkle:shortVersionString>0.1.31</sparkle:shortVersionString>
+      <title>Karya 0.1.32</title>
+      <pubDate>Fri, 30 Oct 2026 07:25:31 +0000</pubDate>
+      <sparkle:version>124</sparkle:version>
+      <sparkle:shortVersionString>0.1.32</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>확장 팝업에 <b>월별 일정 가져오기</b>: 달(예: 2026년 09월)을 고르고 「가져오기」를 누르면 그달 일정을 모두 Karya로 보냅니다. 열어 둔 캘린더 탭을 그달의 주마다 넘기며 읽고(월 보기는 「+N개 더보기」로 일정이 숨어서), 다 읽으면 원래 화면으로 돌아갑니다. 30초쯤 걸립니다.</li><li>업데이트 후 Chrome에서 확장 프로그램을 <b>새로고침(↻)</b> 해야 보입니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.31.zip" length="3762426" type="application/octet-stream" sparkle:edSignature="iLxebaCoEE1WW1eQHrgd2xpXTo/i0Snlp53jO1l4hmH95Dm4sil6tNuDz06t93UARmjpRqhTUeVqD3jkNA8DCA=="/>
+      <description><![CDATA[<ul><li>「이번 주」·월별로 가져온 일정이 모두 「(임시)」 시간으로 놓이던 것: 일정 글에서 날짜 뒤에 제목이 줄바꿈 없이 이어 붙어 시간을 못 읽었습니다. 이제 줄 안에서 시간·종일·날짜를 찾습니다. 이미 가져온 카드도 앱을 열면 바로잡힙니다.</li><li>종일 일정 제목 끝에 「종일」이 붙던 것(「[연차] 장서이종일」)을 고쳤습니다. 이미 가져온 카드도 바로잡힙니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.32.zip" length="3764826" type="application/octet-stream" sparkle:edSignature="3G78pYhcdgyjdFfMvtV9qjE0i9FW7iNoUkNuA0PyLvun8bHwgM2pLj4yvgS34PXC1yRHXbcdZC/OQpzBJcWWBA=="/>
     </item>
   </channel>
 </rss>
