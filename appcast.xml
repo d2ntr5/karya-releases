@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.47</title>
-      <pubDate>Fri, 30 Oct 2026 17:10:14 +0000</pubDate>
-      <sparkle:version>154</sparkle:version>
-      <sparkle:shortVersionString>0.1.47</sparkle:shortVersionString>
+      <title>Karya 0.1.48</title>
+      <pubDate>Fri, 30 Oct 2026 17:53:20 +0000</pubDate>
+      <sparkle:version>157</sparkle:version>
+      <sparkle:shortVersionString>0.1.48</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>저장 데이터 보호</b>: 저장 파일에서 읽지 못하는 카드·블록이 있으면 그것만 빼고 나머지를 살리고, 원래 파일을 <code>state.broken-&lt;날짜&gt;.json</code>(같은 폴더)으로 남긴 뒤 알려 줍니다. 전에는 파일 전체를 못 읽으면 빈 상태로 시작해 다음 저장 때 덮어썼습니다(0.1.45 업데이트 뒤 한 맥에서 카드·설정이 사라진 원인으로 보임). 새로 넣은 칸은 예전 파일에 없어도 기본값으로 읽습니다.</li><li><b>처음 실행 프로필 창</b>: 맨 위에서 Jira 연결(사이트·이메일·API 토큰·연결 테스트)을 바로 할 수 있고, <b>「나중에」</b>로 닫을 수 있습니다. 토큰이 없어도 내부 스페이스는 고를 수 있습니다.</li><li><b>업데이트 창</b>: 흰 바탕, 머리줄 없이.</li><li><b>설치·업데이트 안내</b>: 바깥 흰색, 단계 블록과 그림 박스 안쪽은 한 단계 어둡게(지금 할 일 블록은 그대로). 맨 위 제목 줄을 빼고 버전 표시는 맨 아래로.</li><li><b>카드 상세 「참고 자료」</b>: 클립보드 붙여넣기 · 파일 추가 · 끌어 놓기(PDF·Word·텍스트·이미지 글자 인식). AI 다듬기·분류가 원문과 함께 읽고, Jira에는 보내지 않습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.47.zip" length="4456331" type="application/octet-stream" sparkle:edSignature="6IzBNAtAnPiPJyrbGPyXi/TVVHE04S4B1NIKGTwxQPQClqzSV+y1PSi7CaLFfIKDq4i/sejxmzo89l7kX6TIAg=="/>
+      <description><![CDATA[<ul><li><b>보낸 메일 가져오기</b>(확장 팝업 · 이번 주 / 지난주 / 이번 달): Gmail 탭에서 그 기간 내가 보낸 메일을 찾아 카드로 만듭니다. 보낸 메일은 모두 일감, <b>끝 = 보낸 시각, 시작 = 작성 시간 전</b>(1시간, 내가 쓴 글이 100자 미만이면 30분). 같은 스레드에서 1시간 안에 이어 보낸 메일은 한 카드로. 카드 본문에는 내가 보낸 메일과 그 스레드의 앞선 메일(받은 메일)이 함께 들어가 AI 다듬기가 참고합니다. 카드에 「보낸 메일」 표시.</li><li><b>일정 관련 메일 찾기</b>(확장 팝업 · 이번 주 / 다음 주 일정): 일정마다 제목으로 Gmail을 찾아, 초대 메일은 그 일정 카드의 참고 자료로 바로 붙이고(「자동」), 나머지는 상세 창 「관련 메일 후보」에 둡니다(답하지 않은 메일 포함). 맞는 것만 「붙이기」.</li><li>업데이트 뒤 Chrome에서 확장을 새로고침(↻)하세요.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.48.zip" length="4537858" type="application/octet-stream" sparkle:edSignature="toQGoHqvp4eR4c3WKlTncUDVS1oDRq4YcyVVte2lb0B6NHQ9zja+otfq05yoI5UvNOCU6vAsfu0Ts0T/g2nACQ=="/>
     </item>
   </channel>
 </rss>
