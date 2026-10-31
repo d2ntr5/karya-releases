@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.52</title>
-      <pubDate>Sat, 31 Oct 2026 07:11:25 +0000</pubDate>
-      <sparkle:version>161</sparkle:version>
-      <sparkle:shortVersionString>0.1.52</sparkle:shortVersionString>
+      <title>Karya 0.1.53</title>
+      <pubDate>Sat, 31 Oct 2026 07:39:07 +0000</pubDate>
+      <sparkle:version>162</sparkle:version>
+      <sparkle:shortVersionString>0.1.53</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>카드에 Work Type 1도 보입니다</b>(시안 19 안 A): 카드의 Work Type 칩이 <code>WT Managed Service › 보안 관리</code>처럼 상위(WT1) › 하위(WT2)로 나옵니다. 칩을 눌러 바꾸는 것은 지금처럼 WT2이고, WT1은 고른 WT2의 상위로 따라 바뀝니다.</li><li>카드에 마우스를 올렸을 때 뜨는 미리보기에 WT1 줄이 추가됐습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.52.zip" length="4603064" type="application/octet-stream" sparkle:edSignature="vTNEP4h4FkLRctsiGEy7BWmMc4bBI3MfK5UdchgINqPnepKGhrlEkUXds7uH14O1jQ8XPHJcqdMdwiHt4x8mBw=="/>
+      <description><![CDATA[<ul><li><b>캘린더 블록에도 Work Type 1</b>: 블록에 자리가 있으면 <code>Managed Service ›</code> / <code>Meeting Management</code>처럼 WT1 › WT2를 두 줄로 보여 줍니다. 한 줄밖에 없는 블록이나 겹쳐서 좁아진 블록은 지금처럼 WT2만.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.53.zip" length="4603303" type="application/octet-stream" sparkle:edSignature="R4U7EC23jAwg2F7PMOP3rRiqJ/VuUJlHBj2J5Qo1yoaxcKNByZoBInOVSlYvnUVYYsl8an6ywoqHSfLepcVVBw=="/>
     </item>
   </channel>
 </rss>
