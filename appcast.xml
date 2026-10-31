@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.48</title>
-      <pubDate>Fri, 30 Oct 2026 17:53:20 +0000</pubDate>
-      <sparkle:version>157</sparkle:version>
-      <sparkle:shortVersionString>0.1.48</sparkle:shortVersionString>
+      <title>Karya 0.1.49</title>
+      <pubDate>Sat, 31 Oct 2026 00:09:26 +0000</pubDate>
+      <sparkle:version>158</sparkle:version>
+      <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>보낸 메일 가져오기</b>(확장 팝업 · 이번 주 / 지난주 / 이번 달): Gmail 탭에서 그 기간 내가 보낸 메일을 찾아 카드로 만듭니다. 보낸 메일은 모두 일감, <b>끝 = 보낸 시각, 시작 = 작성 시간 전</b>(1시간, 내가 쓴 글이 100자 미만이면 30분). 같은 스레드에서 1시간 안에 이어 보낸 메일은 한 카드로. 카드 본문에는 내가 보낸 메일과 그 스레드의 앞선 메일(받은 메일)이 함께 들어가 AI 다듬기가 참고합니다. 카드에 「보낸 메일」 표시.</li><li><b>일정 관련 메일 찾기</b>(확장 팝업 · 이번 주 / 다음 주 일정): 일정마다 제목으로 Gmail을 찾아, 초대 메일은 그 일정 카드의 참고 자료로 바로 붙이고(「자동」), 나머지는 상세 창 「관련 메일 후보」에 둡니다(답하지 않은 메일 포함). 맞는 것만 「붙이기」.</li><li>업데이트 뒤 Chrome에서 확장을 새로고침(↻)하세요.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.48.zip" length="4537858" type="application/octet-stream" sparkle:edSignature="toQGoHqvp4eR4c3WKlTncUDVS1oDRq4YcyVVte2lb0B6NHQ9zja+otfq05yoI5UvNOCU6vAsfu0Ts0T/g2nACQ=="/>
+      <description><![CDATA[<ul><li><b>설정 화면 색</b>(시안 17 안 A): 모든 설정 페이지(Jira·Chrome·AI·프로필·필드 매핑·화면·업데이트)와 첫 실행 프로필 창이 흰 바탕 + 연회색 상자로 바뀌었습니다.</li><li><b>AI 엔진 고르기</b>: 탭 대신 라디오 줄 두 개(Gemini / Claude). 줄마다 필요한 키와 키 저장 여부가 보입니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.49.zip" length="4583819" type="application/octet-stream" sparkle:edSignature="mhGRO93NP264xvH1yB/BngU6o0039e1smDVJCUtLlNF48+QHnmlRyezXRBTiKHQpXixBVzykvx1ZTMEFT9bqAA=="/>
     </item>
   </channel>
 </rss>
