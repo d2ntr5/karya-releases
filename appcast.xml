@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.50</title>
-      <pubDate>Sat, 31 Oct 2026 00:55:13 +0000</pubDate>
-      <sparkle:version>159</sparkle:version>
-      <sparkle:shortVersionString>0.1.50</sparkle:shortVersionString>
+      <title>Karya 0.1.51</title>
+      <pubDate>Sat, 31 Oct 2026 05:41:32 +0000</pubDate>
+      <sparkle:version>160</sparkle:version>
+      <sparkle:shortVersionString>0.1.51</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>설정 창 제목줄</b>이 앱 위쪽 바와 같은 테마 색으로 바뀝니다(설정 › 화면에서 테마를 고르면 바로 따라 바뀜). 제목 글자와 창 단추는 흰색.</li><li>이 버전부터 릴리즈는 맥북에서 올립니다(설치된 앱은 그대로 업데이트를 받음).</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.50.zip" length="4593096" type="application/octet-stream" sparkle:edSignature="leVqPqXiRng4sLlPO9bfqg7kyhz7rwbK+oVgk+gtA3qq11LiNYYzy9V1uSeA32dCkA05T9fievnqWmURGyJ0BA=="/>
+      <description><![CDATA[<ul><li><b>보낸 메일 가져오기 고침</b>(실제 Gmail로 확인): 카드에 제목·본문이 비어 있던 문제. Gmail이 막아 둔 방식(Trusted Types)으로 메일 내용을 읽으려다 실패했고, Gmail 탭이 뒤에 있을 때 제목을 못 읽었습니다. 이제 메일마다 나눠 읽고, 제목은 목록에서 못 읽으면 메일 쪽에서 가져옵니다.</li><li><b>다른 주소로 보낸 메일도 내 메일로</b>: 계정(예: steven@mz.co.kr)과 보내는 주소(steven@megazone.com)가 달라도, 주소 앞부분이 같거나 보낸 사람 이름이 내 캘린더 이름이면 내가 보낸 메일로 봅니다. 그래서 보낸 시각과 작성 시간이 메일마다 맞게 잡힙니다.</li><li>「FYI.」처럼 짧게 전달한 메일은 전달한 내용까지 카드 본문에 넣습니다.</li><li>업데이트 뒤 Chrome에서 확장을 새로고침(↻)하세요. 이미 가져온 빈 카드는 같은 기간을 다시 가져오면 채워집니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.51.zip" length="4600285" type="application/octet-stream" sparkle:edSignature="1rRirYabmGqnQFkfqA9coD+W+N0hS+I+YtbkSTSyW4U4hq1BkCkDcOg7zy7yCqPm1e6NL47H8Os6tgK4Mn5fDQ=="/>
     </item>
   </channel>
 </rss>
