@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.53</title>
-      <pubDate>Sat, 31 Oct 2026 07:39:07 +0000</pubDate>
-      <sparkle:version>162</sparkle:version>
-      <sparkle:shortVersionString>0.1.53</sparkle:shortVersionString>
+      <title>Karya 0.1.54</title>
+      <pubDate>Sat, 31 Oct 2026 08:36:20 +0000</pubDate>
+      <sparkle:version>163</sparkle:version>
+      <sparkle:shortVersionString>0.1.54</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>캘린더 블록에도 Work Type 1</b>: 블록에 자리가 있으면 <code>Managed Service ›</code> / <code>Meeting Management</code>처럼 WT1 › WT2를 두 줄로 보여 줍니다. 한 줄밖에 없는 블록이나 겹쳐서 좁아진 블록은 지금처럼 WT2만.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.53.zip" length="4603303" type="application/octet-stream" sparkle:edSignature="R4U7EC23jAwg2F7PMOP3rRiqJ/VuUJlHBj2J5Qo1yoaxcKNByZoBInOVSlYvnUVYYsl8an6ywoqHSfLepcVVBw=="/>
+      <description><![CDATA[<ul><li><b>「내 Jira 일감 불러오기」</b>(캘린더 위, 전 「Jira에서 가져오기」 · 시안 20): 보이는 주에 <b>내가 담당자인 일감</b>을 불러옵니다. 내가 남긴 작업 기록은 그 시간에 블록으로(지금처럼 고친 뒤 「Jira에 보내기」로 바뀐 것만 반영), 작업 기록이 없는 일감은 위쪽 기간 줄에 시작 날짜–기한으로 놓습니다. 기간 줄 일감은 보기만 하고 Jira로 보내지 않습니다.</li><li>불러온 일감에는 블록 오른쪽 위에 <b>「가져옴」</b>이 붙어, 메일·캘린더·메모로 만든 넣을 일감과 구분됩니다.</li><li><b>「불러온 일감 보기」</b> 체크를 끄면 불러온 일감만 캘린더에서 숨깁니다.</li><li>담당자가 다른 사람인 일감에 남긴 작업 기록은 이제 불러오지 않습니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.54.zip" length="4645576" type="application/octet-stream" sparkle:edSignature="yzij9CIHWXJqlfL5ugdxj6NpswkMihpyTQNsvoegsq0xF+kpOw7QECLQvaoxuC4Net47bjtn0Gc/RB6WCRx/Dg=="/>
     </item>
   </channel>
 </rss>
