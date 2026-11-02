@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.55</title>
-      <pubDate>Mon, 02 Nov 2026 11:52:27 +0000</pubDate>
-      <sparkle:version>164</sparkle:version>
-      <sparkle:shortVersionString>0.1.55</sparkle:shortVersionString>
+      <title>Karya 0.1.56</title>
+      <pubDate>Mon, 02 Nov 2026 12:19:13 +0000</pubDate>
+      <sparkle:version>165</sparkle:version>
+      <sparkle:shortVersionString>0.1.56</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>Chrome 확장이 스스로 업데이트</b>: 앱이 업데이트되면 확장 폴더를 새로 복사하고, 확장이 10분 안에 스스로 다시 불러옵니다. 이번 0.1.55로 넘어올 때만 Chrome 확장 화면에서 ↻를 한 번 눌러 주세요(그다음부터는 자동).</li><li><b>설치 안내가 설정 안으로</b>: 따로 뜨던 안내 창 대신 설정 › 「설치 안내」 페이지. 주황 배너의 「안내 열기」도 이 페이지를 엽니다.</li><li><b>가져온 Jira 일감은 Jira 원문 그대로</b>: 상세 창에 상태·담당자·보고자·시작 날짜·기한·Team·CC·Managed Type·Work Type·고객을 Jira 값 그대로 보여 줍니다(「AI」 표시 없음). 고치려면 「수정」 버튼 → 저장하면 「바뀜」이 붙고 「Jira에 보내기」로 반영.</li><li><b>문제 있는 일감 표시</b>: 가져온 일감에 필수 필드(Managed Type·Work Type 1·2·Team·시작 날짜·기한)가 비었거나, 기간 줄 일감이 Jira에서 완료됐으면 블록 아래에 주황 ⚠로 적습니다.</li><li><b>캘린더 시간 칸 높이 고정</b>: 창을 낮춰도 시간 칸이 줄지 않고 스크롤됩니다. 30분짜리 블록에도 제목이 보입니다.</li><li><b>블록 끌기가 자연스럽게</b>: 잡은 자리 그대로 15분·하루 단위로 따라오고, 끄는 동안 옮겨질 시간이 보입니다. 고른 블록은 함께 움직이고, 왼쪽 목록 쪽에 놓으면 (보내지 않은 블록만) 목록으로 빠집니다. 아래 가장자리로 길이를 바꿀 때도 15분 단위로 맞춰 보입니다.</li><li>캘린더 위 숫자가 「블록 · 가져옴 · 보냄」으로 나뉩니다(가져온 일감은 보냄에 세지 않음).</li><li>날짜에 연도가 붙습니다(카드 목록, 마우스를 올렸을 때 설명, 상세 창).</li><li>Team 이름은 대소문자를 가리지 않고 찾습니다(프로필 <code>MS_MS3_m2</code> → Jira <code>MS_MS3_M2</code>).</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.55.zip" length="4976181" type="application/octet-stream" sparkle:edSignature="qOGJrC2bgcJIb79MFoT9mTfJfmouxNzA0gmNgT2BzG0vMK903YIdbP1K+gCsnSPoeVI+MWrWCAQRIX9ZCahqBQ=="/>
+      <description><![CDATA[<ul><li><b>설정 창 닫기 버튼이 다시 보입니다</b>: 0.1.55에서 설정 창 왼쪽 위의 닫기·최소화·확대 버튼과 제목이 사라져 창을 닫을 수 없던 문제를 고쳤습니다. 설정 창 제목 줄은 맥 기본 모양으로 돌아갑니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.56.zip" length="4964995" type="application/octet-stream" sparkle:edSignature="LJ6HT7xpIvCNUfkQSCn7pgeQGhR+tnCYzjFVNXlzOscWLUwAlg/22IneL4+QAqdq5Ze29T1HcHhSRswGsNtvCw=="/>
     </item>
   </channel>
 </rss>
