@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.56</title>
-      <pubDate>Mon, 02 Nov 2026 12:19:13 +0000</pubDate>
-      <sparkle:version>165</sparkle:version>
-      <sparkle:shortVersionString>0.1.56</sparkle:shortVersionString>
+      <title>Karya 0.1.57</title>
+      <pubDate>Mon, 02 Nov 2026 12:36:41 +0000</pubDate>
+      <sparkle:version>166</sparkle:version>
+      <sparkle:shortVersionString>0.1.57</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>설정 창 닫기 버튼이 다시 보입니다</b>: 0.1.55에서 설정 창 왼쪽 위의 닫기·최소화·확대 버튼과 제목이 사라져 창을 닫을 수 없던 문제를 고쳤습니다. 설정 창 제목 줄은 맥 기본 모양으로 돌아갑니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.56.zip" length="4964995" type="application/octet-stream" sparkle:edSignature="LJ6HT7xpIvCNUfkQSCn7pgeQGhR+tnCYzjFVNXlzOscWLUwAlg/22IneL4+QAqdq5Ze29T1HcHhSRswGsNtvCw=="/>
+      <description><![CDATA[<ul><li><b>캘린더에 하루 전체(00:00–24:00)</b>: 구글 캘린더처럼 0시부터 24시까지 모두 보이고 위아래로 스크롤합니다. 처음 열면 근무 시작 시간(기본 8시)이 맨 위에 옵니다. 이른 아침·늦은 밤 일정도 잘리지 않고 제 시간에 놓입니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.57.zip" length="4971998" type="application/octet-stream" sparkle:edSignature="TkO/4tv/PNIVWXCN1L1rsm3lrYrU79oDwAylKA28/wm3fsfQxoPPtLT0jjfs1uVYoulshwLnDv99W4lPmsEeBA=="/>
     </item>
   </channel>
 </rss>
