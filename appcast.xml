@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.58</title>
-      <pubDate>Tue, 03 Nov 2026 06:18:09 +0000</pubDate>
-      <sparkle:version>167</sparkle:version>
-      <sparkle:shortVersionString>0.1.58</sparkle:shortVersionString>
+      <title>Karya 0.1.59</title>
+      <pubDate>Tue, 03 Nov 2026 07:02:28 +0000</pubDate>
+      <sparkle:version>168</sparkle:version>
+      <sparkle:shortVersionString>0.1.59</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>「WorkType 구조」가 모든 계정에서 열립니다</b>: Jira Service Management 라이선스가 없는 계정은 실시간 Assets를 읽을 수 없어(403) 창에 오류만 나왔습니다. 이제 실시간 목록을 못 읽으면 앱에 든 WorkType 목록으로 구조를 보여 주고, 위에 그 이유를 한 줄로 알려 줍니다. 검색·펼치기·PDF/JPEG 저장도 그대로 됩니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.58.zip" length="5087299" type="application/octet-stream" sparkle:edSignature="irn7toRZCU6syanywBNnc3+dSv67atxGYKwCql6vQCRGjCARnHPSX6kwsu6oijoxT7qXhM9wyCr5P2zZAnTgDg=="/>
+      <description><![CDATA[<ul><li><b>「WorkType 구조」가 두 페이지가 됩니다</b>: 위쪽에서 「전체 WorkType」과 「내가 쓸 수 있는 WorkType」을 고릅니다.</li><li><b>전체 WorkType</b>: 회사 전체 목록을 WT1 › WT2 › WT3 구조로 보여 줍니다(지금까지와 같음).</li><li><b>내가 쓸 수 있는 WorkType</b>: 내 Jira 계정 권한으로 직접 가져온, 일감에 고를 수 있는 Managed Type · WT1 · WT2 · WT3 목록입니다. Jira Service Management 라이선스가 없어도 됩니다. 처음 열 때 1–2분 걸려 가져오고, 그다음부터는 마지막에 가져온 목록을 바로 보여 줍니다(「다시 가져오기」로 새로).</li><li><b>비활성 WorkType 표시</b>: 쓰지 않게 된(비활성) 항목도 흐리게 「비활성」 표시를 붙여 보여 줍니다. AI 분류는 지금처럼 비활성 항목을 고르지 않습니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.59.zip" length="5320294" type="application/octet-stream" sparkle:edSignature="NKIZkGDMPjsyV2E2xhRjR3RAjj04n/Vqj2gmI0dcAtHcUPiCnouvFTfAqbVZ7FPFIc0k06F5TIiJfu+wBwdlDQ=="/>
     </item>
   </channel>
 </rss>
