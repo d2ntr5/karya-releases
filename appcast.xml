@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.60</title>
-      <pubDate>Tue, 03 Nov 2026 09:02:36 +0000</pubDate>
-      <sparkle:version>169</sparkle:version>
-      <sparkle:shortVersionString>0.1.60</sparkle:shortVersionString>
+      <title>Karya 0.1.61</title>
+      <pubDate>Tue, 03 Nov 2026 09:21:47 +0000</pubDate>
+      <sparkle:version>170</sparkle:version>
+      <sparkle:shortVersionString>0.1.61</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>「내가 쓸 수 있는 WorkType」도 트리로 보여 줍니다</b>: 「전체 WorkType」 페이지처럼 WT1 › WT2 › WT3 구조로 그립니다. Jira가 상하위 관계를 알려 주지 않아 앱 목록의 관계로 배치하고, 내 팀(MS_All · jira-users) 항목을 앞에, 하위가 없는 WT1은 마지막 한 열로 모읍니다. Managed Type은 위 안내 줄에 적습니다.</li><li><b>WT2·WT3이 0개로 나오던 문제 대응</b>: 어떤 종류가 하나도 안 오면 한 번 더 천천히 가져오고, 그래도 비면 빈 목록을 저장하지 않고 오류로 알려 줍니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.60.zip" length="5321597" type="application/octet-stream" sparkle:edSignature="mhEbH300PfgDCMWP4Km4OBvM1xletX2kLrGBWqKRjfHDjdiwcYwUggxYoIbzmUEM07W3jX0lhWeQ21xP17PsDQ=="/>
+      <description><![CDATA[<ul><li><b>「내가 쓸 수 있는 WorkType」 트리를 좁혔습니다</b>: 다른 팀 Work Type 1이 모두 열로 펼쳐져 50열이 되던 것을, 내 팀(MS_All · jira-users) 열만 펼치고 다른 팀 WT1은 「다른 팀 Work Type 1」 한 열에 모았습니다. 그 안의 WT1을 누르면 고를 수 있는 Work Type 2가 열립니다. 맨 위 상자의 개수는 WT1 › WT2 › WT3 그대로 셉니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.61.zip" length="5326974" type="application/octet-stream" sparkle:edSignature="yztr+RQS5TIqXtF1QWH2TZyCUgff2x6mENQ9ZycQfM/bLFMZiFs57E693H71HOgvbZEV2yXs/31zlPDDoJ6MCw=="/>
     </item>
   </channel>
 </rss>
