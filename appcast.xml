@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.59</title>
-      <pubDate>Tue, 03 Nov 2026 07:02:28 +0000</pubDate>
-      <sparkle:version>168</sparkle:version>
-      <sparkle:shortVersionString>0.1.59</sparkle:shortVersionString>
+      <title>Karya 0.1.60</title>
+      <pubDate>Tue, 03 Nov 2026 09:02:36 +0000</pubDate>
+      <sparkle:version>169</sparkle:version>
+      <sparkle:shortVersionString>0.1.60</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>「WorkType 구조」가 두 페이지가 됩니다</b>: 위쪽에서 「전체 WorkType」과 「내가 쓸 수 있는 WorkType」을 고릅니다.</li><li><b>전체 WorkType</b>: 회사 전체 목록을 WT1 › WT2 › WT3 구조로 보여 줍니다(지금까지와 같음).</li><li><b>내가 쓸 수 있는 WorkType</b>: 내 Jira 계정 권한으로 직접 가져온, 일감에 고를 수 있는 Managed Type · WT1 · WT2 · WT3 목록입니다. Jira Service Management 라이선스가 없어도 됩니다. 처음 열 때 1–2분 걸려 가져오고, 그다음부터는 마지막에 가져온 목록을 바로 보여 줍니다(「다시 가져오기」로 새로).</li><li><b>비활성 WorkType 표시</b>: 쓰지 않게 된(비활성) 항목도 흐리게 「비활성」 표시를 붙여 보여 줍니다. AI 분류는 지금처럼 비활성 항목을 고르지 않습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.59.zip" length="5320294" type="application/octet-stream" sparkle:edSignature="NKIZkGDMPjsyV2E2xhRjR3RAjj04n/Vqj2gmI0dcAtHcUPiCnouvFTfAqbVZ7FPFIc0k06F5TIiJfu+wBwdlDQ=="/>
+      <description><![CDATA[<ul><li><b>「내가 쓸 수 있는 WorkType」도 트리로 보여 줍니다</b>: 「전체 WorkType」 페이지처럼 WT1 › WT2 › WT3 구조로 그립니다. Jira가 상하위 관계를 알려 주지 않아 앱 목록의 관계로 배치하고, 내 팀(MS_All · jira-users) 항목을 앞에, 하위가 없는 WT1은 마지막 한 열로 모읍니다. Managed Type은 위 안내 줄에 적습니다.</li><li><b>WT2·WT3이 0개로 나오던 문제 대응</b>: 어떤 종류가 하나도 안 오면 한 번 더 천천히 가져오고, 그래도 비면 빈 목록을 저장하지 않고 오류로 알려 줍니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.60.zip" length="5321597" type="application/octet-stream" sparkle:edSignature="mhEbH300PfgDCMWP4Km4OBvM1xletX2kLrGBWqKRjfHDjdiwcYwUggxYoIbzmUEM07W3jX0lhWeQ21xP17PsDQ=="/>
     </item>
   </channel>
 </rss>
