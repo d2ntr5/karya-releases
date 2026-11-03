@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.62</title>
-      <pubDate>Tue, 03 Nov 2026 09:29:51 +0000</pubDate>
-      <sparkle:version>171</sparkle:version>
-      <sparkle:shortVersionString>0.1.62</sparkle:shortVersionString>
+      <title>Karya 0.1.63</title>
+      <pubDate>Tue, 03 Nov 2026 10:05:09 +0000</pubDate>
+      <sparkle:version>172</sparkle:version>
+      <sparkle:shortVersionString>0.1.63</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>「내가 쓸 수 있는 WorkType」 개수 표시 바로잡음</b>: 「다른 팀 Work Type 1」 열의 상자에 Work Type 2 개수가 「WT3」으로 나오던 것을 「WT2」로, 「다른 팀」·「하위 없는」 열 머리의 개수는 「WT1」로 고쳤습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.62.zip" length="5329772" type="application/octet-stream" sparkle:edSignature="GUIM5rdiEhJkdkMAwPGznTArVQBXIglfSgau2z516MjZw55wZ9AvgJeNKxwuZnU/nIDnXA2h08D9UUHo7J9/Bw=="/>
+      <description><![CDATA[<ul><li><b>「WorkType 구조」 위쪽 줄이 흔들리지 않습니다</b>: 「전체 WorkType」의 날짜 글자가 세 줄로 접혀 머리가 높아지고, 페이지를 바꿀 때마다 위쪽이 위아래로 움직였습니다. 날짜를 한 줄(실시간 시각 · 최신 명세)로 줄이고, 전체 내용은 마우스를 올리면 보입니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.63.zip" length="5332045" type="application/octet-stream" sparkle:edSignature="kvI8H2cO+6347xuIhl2wjUGEVxk8u+7FryCy33m/01HZx3EOlMQ6gP6dH5k8KLUgOoyQzidSj/7StewvfC1fBg=="/>
     </item>
   </channel>
 </rss>
