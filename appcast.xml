@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.66</title>
-      <pubDate>Tue, 03 Nov 2026 10:23:04 +0000</pubDate>
-      <sparkle:version>175</sparkle:version>
-      <sparkle:shortVersionString>0.1.66</sparkle:shortVersionString>
+      <title>Karya 0.1.67</title>
+      <pubDate>Tue, 03 Nov 2026 10:47:14 +0000</pubDate>
+      <sparkle:version>176</sparkle:version>
+      <sparkle:shortVersionString>0.1.67</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>「WorkType 구조」 오른쪽 버튼(PDF 저장 등)이 「PD…」처럼 잘리던 것을 고쳤습니다(0.1.65에서 생김). 창이 좁으면 날짜만 「…」로 줄고, 마우스를 올리면 전체가 보입니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.66.zip" length="5338748" type="application/octet-stream" sparkle:edSignature="tqjPaSPEbIfN2RLsTSDNb++VEWO9K2YWlUAyHxhcFOYIKx3+0KqQ8QDeB34v4VBXBv512EGAGj1rYWqW4NGTBQ=="/>
+      <description><![CDATA[<ul><li><b>팁이 떠 있을 때도 블록이 바로 끌립니다</b>: 블록 위에 마우스를 올려 팁이 뜬 상태에서 끌면, 팁만 사라지고 블록은 움직이지 않아 한 번 더 끌어야 했습니다.</li><li><b>Dock 아이콘으로 창이 다시 열립니다</b>: ⌘W로 본 창을 닫은 뒤 Dock의 Karya 아이콘을 눌러도 창이 열리지 않았습니다(메뉴 「파일 › 새로운 Karya 윈도우」로만 열림).</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.67.zip" length="5355373" type="application/octet-stream" sparkle:edSignature="MHr/MEAKh5jW0MfQpBOMjHRtrBoSdAlOgs01lF6zYfHVaJBYATtewEOfQzPljxtFUr6fGWV9y+H1GlcsIZE7Aw=="/>
     </item>
   </channel>
 </rss>
