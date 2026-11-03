@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.61</title>
-      <pubDate>Tue, 03 Nov 2026 09:21:47 +0000</pubDate>
-      <sparkle:version>170</sparkle:version>
-      <sparkle:shortVersionString>0.1.61</sparkle:shortVersionString>
+      <title>Karya 0.1.62</title>
+      <pubDate>Tue, 03 Nov 2026 09:29:51 +0000</pubDate>
+      <sparkle:version>171</sparkle:version>
+      <sparkle:shortVersionString>0.1.62</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>「내가 쓸 수 있는 WorkType」 트리를 좁혔습니다</b>: 다른 팀 Work Type 1이 모두 열로 펼쳐져 50열이 되던 것을, 내 팀(MS_All · jira-users) 열만 펼치고 다른 팀 WT1은 「다른 팀 Work Type 1」 한 열에 모았습니다. 그 안의 WT1을 누르면 고를 수 있는 Work Type 2가 열립니다. 맨 위 상자의 개수는 WT1 › WT2 › WT3 그대로 셉니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.61.zip" length="5326974" type="application/octet-stream" sparkle:edSignature="yztr+RQS5TIqXtF1QWH2TZyCUgff2x6mENQ9ZycQfM/bLFMZiFs57E693H71HOgvbZEV2yXs/31zlPDDoJ6MCw=="/>
+      <description><![CDATA[<ul><li><b>「내가 쓸 수 있는 WorkType」 개수 표시 바로잡음</b>: 「다른 팀 Work Type 1」 열의 상자에 Work Type 2 개수가 「WT3」으로 나오던 것을 「WT2」로, 「다른 팀」·「하위 없는」 열 머리의 개수는 「WT1」로 고쳤습니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.62.zip" length="5329772" type="application/octet-stream" sparkle:edSignature="GUIM5rdiEhJkdkMAwPGznTArVQBXIglfSgau2z516MjZw55wZ9AvgJeNKxwuZnU/nIDnXA2h08D9UUHo7J9/Bw=="/>
     </item>
   </channel>
 </rss>
