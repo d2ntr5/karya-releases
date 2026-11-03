@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.67</title>
-      <pubDate>Tue, 03 Nov 2026 10:47:14 +0000</pubDate>
-      <sparkle:version>176</sparkle:version>
-      <sparkle:shortVersionString>0.1.67</sparkle:shortVersionString>
+      <title>Karya 0.1.68</title>
+      <pubDate>Tue, 03 Nov 2026 10:54:28 +0000</pubDate>
+      <sparkle:version>177</sparkle:version>
+      <sparkle:shortVersionString>0.1.68</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>팁이 떠 있을 때도 블록이 바로 끌립니다</b>: 블록 위에 마우스를 올려 팁이 뜬 상태에서 끌면, 팁만 사라지고 블록은 움직이지 않아 한 번 더 끌어야 했습니다.</li><li><b>Dock 아이콘으로 창이 다시 열립니다</b>: ⌘W로 본 창을 닫은 뒤 Dock의 Karya 아이콘을 눌러도 창이 열리지 않았습니다(메뉴 「파일 › 새로운 Karya 윈도우」로만 열림).</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.67.zip" length="5355373" type="application/octet-stream" sparkle:edSignature="MHr/MEAKh5jW0MfQpBOMjHRtrBoSdAlOgs01lF6zYfHVaJBYATtewEOfQzPljxtFUr6fGWV9y+H1GlcsIZE7Aw=="/>
+      <description><![CDATA[<ul><li><b>팁이 떠 있을 때 블록 끌기 — 다시 고침</b>: 0.1.67의 고침은 실제 앱에서 효과가 없었습니다. 카드·블록 팁을 클릭을 받지 않는 창으로 바꿔, 팁이 떠 있어도 처음 끌기부터 블록이 움직입니다. 클릭·끌기·스크롤·키 입력이 있으면 팁은 바로 닫힙니다(팁의 말풍선 꼬리는 없어짐).</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.68.zip" length="5361682" type="application/octet-stream" sparkle:edSignature="Qfc4jrUWLC3jvLqN/ee7qu2uHZR1B8ejiRgst9L+yjp1Yagak6h1aPM513MldnygpjkUprOKJNKBqHMpQndyAQ=="/>
     </item>
   </channel>
 </rss>
