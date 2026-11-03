@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.65</title>
-      <pubDate>Tue, 03 Nov 2026 10:18:12 +0000</pubDate>
-      <sparkle:version>174</sparkle:version>
-      <sparkle:shortVersionString>0.1.65</sparkle:shortVersionString>
+      <title>Karya 0.1.66</title>
+      <pubDate>Tue, 03 Nov 2026 10:23:04 +0000</pubDate>
+      <sparkle:version>175</sparkle:version>
+      <sparkle:shortVersionString>0.1.66</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>「WorkType 구조」 제목과 「MS_All + jira-users」 표시가 두 줄로 접히던 것을 고쳤습니다(0.1.64에서 생김).</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.65.zip" length="5337012" type="application/octet-stream" sparkle:edSignature="6mVyRsOMA0CqJgu/qU3SmtuGzh58mpPDZmW1Ay+GbBwx/+MWZKjCSznov8RVTcI+d8bLLqsdyU5c2R8xgiiaCg=="/>
+      <description><![CDATA[<ul><li>「WorkType 구조」 오른쪽 버튼(PDF 저장 등)이 「PD…」처럼 잘리던 것을 고쳤습니다(0.1.65에서 생김). 창이 좁으면 날짜만 「…」로 줄고, 마우스를 올리면 전체가 보입니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.66.zip" length="5338748" type="application/octet-stream" sparkle:edSignature="tqjPaSPEbIfN2RLsTSDNb++VEWO9K2YWlUAyHxhcFOYIKx3+0KqQ8QDeB34v4VBXBv512EGAGj1rYWqW4NGTBQ=="/>
     </item>
   </channel>
 </rss>
