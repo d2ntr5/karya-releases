@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.64</title>
-      <pubDate>Tue, 03 Nov 2026 10:14:36 +0000</pubDate>
-      <sparkle:version>173</sparkle:version>
-      <sparkle:shortVersionString>0.1.64</sparkle:shortVersionString>
+      <title>Karya 0.1.65</title>
+      <pubDate>Tue, 03 Nov 2026 10:18:12 +0000</pubDate>
+      <sparkle:version>174</sparkle:version>
+      <sparkle:shortVersionString>0.1.65</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>라이선스 없는 계정의 「내가 쓸 수 있는 WorkType」이 한 열로만 나오던 문제</b>: 가져온 목록에 Work Type 2·3이 0개면 Work Type 1이 모두 「하위 없는」 한 열에 몰렸습니다.</li><li>예전 버전이 저장한, 비어 있는 목록은 쓰지 않고 페이지를 열 때 다시 가져옵니다.</li><li>두 번 읽어도 Jira가 Work Type 2·3을 주지 않으면, 고를 수 있는 Work Type 1 아래를 앱 목록으로 채워 트리로 보여 주고, 위에 주황색으로 그 사실을 적습니다.</li><li>「전체 WorkType」 위쪽 날짜가 자리가 있는데도 「…」로 잘리던 것을 고쳤습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.64.zip" length="5335935" type="application/octet-stream" sparkle:edSignature="50/wFzsNsv4tOsuoj9GDOE69sc0/S8lbaZm6ZlG2eW92RELZui2+UF0oQf0EIdc+4BasxXDHnYa1hHWjVwAtCQ=="/>
+      <description><![CDATA[<ul><li>「WorkType 구조」 제목과 「MS_All + jira-users」 표시가 두 줄로 접히던 것을 고쳤습니다(0.1.64에서 생김).</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.65.zip" length="5337012" type="application/octet-stream" sparkle:edSignature="6mVyRsOMA0CqJgu/qU3SmtuGzh58mpPDZmW1Ay+GbBwx/+MWZKjCSznov8RVTcI+d8bLLqsdyU5c2R8xgiiaCg=="/>
     </item>
   </channel>
 </rss>
