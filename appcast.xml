@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.69</title>
-      <pubDate>Tue, 03 Nov 2026 14:32:43 +0000</pubDate>
-      <sparkle:version>178</sparkle:version>
-      <sparkle:shortVersionString>0.1.69</sparkle:shortVersionString>
+      <title>Karya 0.1.70</title>
+      <pubDate>Tue, 03 Nov 2026 19:39:35 +0000</pubDate>
+      <sparkle:version>179</sparkle:version>
+      <sparkle:shortVersionString>0.1.70</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Chrome 확장을 맥미니의 실제 Chrome(회사 계정)에서 버튼마다 눌러 보고 고친 것입니다.</li><li><b>「일정 관련 메일 찾기」가 「보내는 중…」에서 멈추지 않습니다</b>: Gmail 탭이 뒤에 있으면 Chrome이 페이지 안의 기다림을 1분에 한 번으로 늦춰, 검색 한 번이 수십 분 걸리고 끝나지 않았습니다(Gmail 탭도 검색 화면에 남음). 이제 이번 주 일정 기준 약 1분 반에 끝납니다. 일정이 많아 4분이 넘으면 찾은 것까지 보내고 남은 일정 수를 알려 줍니다. 같은 제목의 일정은 한 번만 찾습니다.</li><li><b>선택한 메일의 본문이 들어옵니다</b>: Gmail 목록에서 체크해 보낸 메일이 「본문을 못 읽어 미리보기만」으로 들어왔습니다.</li><li><b>캘린더 「근무 위치」가 카드로 들어오지 않습니다</b>: 근무 위치 줄(「직장」)이 일정처럼 읽혀 시간 없는 「직장」 카드가 생겼습니다.</li><li><b>일정 제목이 「캘린더: 교육」으로 바뀌던 문제</b>: 제목에 「pm」(예: CSPM)이나 「3시간」이 들어간 일정은 캘린더 이름이 제목이 됐습니다. 이미 들어온 잘못된 제목의 카드는 그대로 남으니 지워 주세요.</li><li><b>「현재 탭 내용을 Karya로」(캘린더)가 같은 일정을 또 넣지 않습니다</b>: 「이번 주」로 가져온 일정을 현재 탭으로 다시 보내면 카드가 하나 더 생겼습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.69.zip" length="5363090" type="application/octet-stream" sparkle:edSignature="tbqCDUwuw+eSuAH0zYPoT4NeKjtW9Keadi/Da4PtQH4R54NozwB8eSEieioMyOOQu09pEieRb/OHg9laK5IQCw=="/>
+      <description><![CDATA[<ul><li>「WorkType 구조」 창이 열릴 때 바로 Jira를 읽지 않습니다. 위에서 「전체 WorkType」이나 「내가 쓸 수 있는 WorkType」을 고르면 그 목록만 불러옵니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.70.zip" length="5377836" type="application/octet-stream" sparkle:edSignature="4qPsp69icMC2LtAZuzfV9TVBjGfGaLFTp27gvYTWs+mvHln7jdUTXEOapYqD5g+qBqgZXYgbg87MIWAXFklgCQ=="/>
     </item>
   </channel>
 </rss>
