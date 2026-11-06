@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.82</title>
-      <pubDate>Fri, 06 Nov 2026 08:57:54 +0000</pubDate>
-      <sparkle:version>191</sparkle:version>
-      <sparkle:shortVersionString>0.1.82</sparkle:shortVersionString>
+      <title>Karya 0.1.83</title>
+      <pubDate>Fri, 06 Nov 2026 09:03:28 +0000</pubDate>
+      <sparkle:version>192</sparkle:version>
+      <sparkle:shortVersionString>0.1.83</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>「Jira 입력 현황」 달력을 일요일부터 시작하게 바꿨습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.82.zip" length="6175927" type="application/octet-stream" sparkle:edSignature="wR7qjuDiFkoXLGsa1qt7n9DhtT/LD/nuEnXtuNvMDhtvt7AtX+RGkkubtclIDL/yXyVyjWNidVk+HbQrA1wgDg=="/>
+      <description><![CDATA[<ul><li>Chrome 확장에서 「일정 관련 메일 찾기」와 「빠른 메모」를 뺐습니다. 메모는 앱의 카드 목록 아래에서 쓸 수 있습니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.83.zip" length="6169501" type="application/octet-stream" sparkle:edSignature="nyMtP9yCfMWGSPA0ZaVCXa4HxCiMyIbM41A3DeElTUeZYtr1qllinTInHE4Za4Grqm7NtBEEbYAZT0hlnPQ6AQ=="/>
     </item>
   </channel>
 </rss>
