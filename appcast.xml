@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.74</title>
-      <pubDate>Fri, 06 Nov 2026 07:07:28 +0000</pubDate>
-      <sparkle:version>183</sparkle:version>
-      <sparkle:shortVersionString>0.1.74</sparkle:shortVersionString>
+      <title>Karya 0.1.75</title>
+      <pubDate>Fri, 06 Nov 2026 07:12:14 +0000</pubDate>
+      <sparkle:version>184</sparkle:version>
+      <sparkle:shortVersionString>0.1.75</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>가져오기 창에서 <code>.karya</code> 파일이 흐리게 나와 고를 수 없던 문제를 고쳤습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.74.zip" length="5774325" type="application/octet-stream" sparkle:edSignature="k/GagBxPiIG1MGT3jm8KeUVJCVfETZD0LFfcwLZo9u01lm59hU9Vk70T6KyZJXi8zYrTN4FDBsa6Kw3vPa3eAA=="/>
+      <description><![CDATA[<ul><li>가져오기 경고 문구가 잘리지 않고 끝까지 보입니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.75.zip" length="5774986" type="application/octet-stream" sparkle:edSignature="/WYrWHTkMfvIOM0VCIolh+ip/hdID9qsHbldqp9uko5/2GJB3nkhbhpPuyI4qTRPqdyn2+Bn01kg1eWLJTthAQ=="/>
     </item>
   </channel>
 </rss>
