@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.80</title>
-      <pubDate>Fri, 06 Nov 2026 08:40:06 +0000</pubDate>
-      <sparkle:version>189</sparkle:version>
-      <sparkle:shortVersionString>0.1.80</sparkle:shortVersionString>
+      <title>Karya 0.1.81</title>
+      <pubDate>Fri, 06 Nov 2026 08:51:50 +0000</pubDate>
+      <sparkle:version>190</sparkle:version>
+      <sparkle:shortVersionString>0.1.81</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>「캘린더 불러오기」 달력의 배경을 흰색으로 바꿨습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.80.zip" length="6031591" type="application/octet-stream" sparkle:edSignature="Js2tU9D/jeVInMR9YUoreLyvEQaJBgGCbGK2WNvE9QfIEAVK3XtQDGBqjGEh1HqvDwzMpJS3GKmpyBedfEZ4Cw=="/>
+      <description><![CDATA[<ul><li>「Jira 입력 현황」: 캘린더 위 버튼을 누르면 한 달 달력에 날짜별 Jira 기록 시간이 보이고, 빠진 날과 8시간에 못 미친 날을 찾아 그 주로 바로 갈 수 있습니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.81.zip" length="6176130" type="application/octet-stream" sparkle:edSignature="IlyEhkWTRQbPxYC80cELnOkaOO0hL9j+elcZ/3cUxXDf1Kp8zB/Rzc7ABCSoptp8WuTgfxwILCy8dIdC99GlCg=="/>
     </item>
   </channel>
 </rss>
