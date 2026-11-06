@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.79</title>
-      <pubDate>Fri, 06 Nov 2026 08:32:32 +0000</pubDate>
-      <sparkle:version>188</sparkle:version>
-      <sparkle:shortVersionString>0.1.79</sparkle:shortVersionString>
+      <title>Karya 0.1.80</title>
+      <pubDate>Fri, 06 Nov 2026 08:40:06 +0000</pubDate>
+      <sparkle:version>189</sparkle:version>
+      <sparkle:shortVersionString>0.1.80</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>달력에서 고른 기간이 파란 띠로 또렷하게 보입니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.79.zip" length="6029372" type="application/octet-stream" sparkle:edSignature="/rXT6KQLNDUbRBl9KCNYNvfvPcqKNaNch0PmlG+iteHiQQ0W7miP/noYc0KsDQIqaLl8+g6CAnxq05jSpOs1AQ=="/>
+      <description><![CDATA[<ul><li>「캘린더 불러오기」 달력의 배경을 흰색으로 바꿨습니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.80.zip" length="6031591" type="application/octet-stream" sparkle:edSignature="Js2tU9D/jeVInMR9YUoreLyvEQaJBgGCbGK2WNvE9QfIEAVK3XtQDGBqjGEh1HqvDwzMpJS3GKmpyBedfEZ4Cw=="/>
     </item>
   </channel>
 </rss>
