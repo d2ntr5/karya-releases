@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.70</title>
-      <pubDate>Tue, 03 Nov 2026 19:39:35 +0000</pubDate>
-      <sparkle:version>179</sparkle:version>
-      <sparkle:shortVersionString>0.1.70</sparkle:shortVersionString>
+      <title>Karya 0.1.71</title>
+      <pubDate>Fri, 06 Nov 2026 06:31:03 +0000</pubDate>
+      <sparkle:version>180</sparkle:version>
+      <sparkle:shortVersionString>0.1.71</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>「WorkType 구조」 창이 열릴 때 바로 Jira를 읽지 않습니다. 위에서 「전체 WorkType」이나 「내가 쓸 수 있는 WorkType」을 고르면 그 목록만 불러옵니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.70.zip" length="5377836" type="application/octet-stream" sparkle:edSignature="4qPsp69icMC2LtAZuzfV9TVBjGfGaLFTp27gvYTWs+mvHln7jdUTXEOapYqD5g+qBqgZXYgbg87MIWAXFklgCQ=="/>
+      <description><![CDATA[<ul><li>「검토할 것만」을 켜면 Work Type 1 → 2 → 3 순서로 고릅니다. 각 단계에 AI 후보와 다른 값 목록(찾기 포함)이 나와서 AI가 고르지 않은 값도 고를 수 있습니다. Work Type 2·3은 위에서 고른 값 아래의 것만 보입니다.</li><li>기록 위치를 언제든 바꿀 수 있습니다. 선택지는 프로필의 내부 스페이스입니다(지금 값이 고객 스페이스면 그 값도 함께 보입니다).</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.71.zip" length="5507512" type="application/octet-stream" sparkle:edSignature="eg/JoNc44u6kOOWqmkEkby07RgMFw4Nd8SGFkN3p4qlpNbxbYSGD/uLMKjsxqegr8x96HdE0wScsIIA526BCBg=="/>
     </item>
   </channel>
 </rss>
