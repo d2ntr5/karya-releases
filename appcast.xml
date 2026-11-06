@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.76</title>
-      <pubDate>Fri, 06 Nov 2026 07:58:07 +0000</pubDate>
-      <sparkle:version>185</sparkle:version>
-      <sparkle:shortVersionString>0.1.76</sparkle:shortVersionString>
+      <title>Karya 0.1.77</title>
+      <pubDate>Fri, 06 Nov 2026 08:04:59 +0000</pubDate>
+      <sparkle:version>186</sparkle:version>
+      <sparkle:shortVersionString>0.1.77</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>설정 › Google 캘린더: 회사 계정을 연결하면 Chrome을 열지 않고 앱에서 캘린더를 읽습니다. 읽기 전용이고, 읽을 캘린더를 고릅니다.</li><li>카드 목록의 「캘린더 불러오기」로 오늘, 이번 주, 다음 주, 이번 달 일정을 카드로 가져옵니다. 이미 있는 일정은 건너뜁니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.76.zip" length="5956122" type="application/octet-stream" sparkle:edSignature="V+N7cXpN4HjxuVPPmwL90q8RKRTt+7hnNd8ZwU9dabF7b0Au2OUWJoLp2DE0xRdqYpWuWJjUaQXyiYXiKBqpCg=="/>
+      <description><![CDATA[<ul><li>「캘린더 불러오기」가 404로 실패하던 문제를 고쳤습니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.77.zip" length="5955927" type="application/octet-stream" sparkle:edSignature="7PpaHabZ1dfuwEXaGNlbnRZ42knMzEbBa/IIt2T8xots2vqkQocot3XjEUsBsSIIWm9RzhrOzafEIR8vBIAiDQ=="/>
     </item>
   </channel>
 </rss>
