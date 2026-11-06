@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.72</title>
-      <pubDate>Fri, 06 Nov 2026 06:38:41 +0000</pubDate>
-      <sparkle:version>181</sparkle:version>
-      <sparkle:shortVersionString>0.1.72</sparkle:shortVersionString>
+      <title>Karya 0.1.73</title>
+      <pubDate>Fri, 06 Nov 2026 06:59:45 +0000</pubDate>
+      <sparkle:version>182</sparkle:version>
+      <sparkle:shortVersionString>0.1.73</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>「검토할 것만」: 직접 고른 값에 「직접 고름」이 붙고, 값을 다시 고르면 「다시 골라 주세요」 안내가 사라집니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.72.zip" length="5508155" type="application/octet-stream" sparkle:edSignature="mI4sBhfE1IN1YBy055+vl8Cd4jPpzncR9zNRtHfNrxyKYB+B3wsFQHLdApm15iYHe5EUEksFVX9A1IAbIhkdDw=="/>
+      <description><![CDATA[<ul><li>「내보내기·가져오기」: 카드, 블록, 프로필, 설정, WorkType 목록을 <code>.karya</code> 파일 하나로 옮겨 다른 맥에서 그대로 이어서 작업합니다. 새 맥은 첫 화면의 「파일에서 가져오기」로 시작합니다. Jira 토큰과 AI 키는 파일에 없어 맥마다 한 번 입력합니다.</li><li>쓰던 맥에서는 「합치기」와 「통째로 바꾸기」 중에 고르고, 가져온 뒤 「되돌리기」로 돌아갈 수 있습니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.73.zip" length="5774848" type="application/octet-stream" sparkle:edSignature="7hRj/huaU3l5HTSTOE9uru+wRF0d3vQbTpctZTC3Vd31KK3YuKpce4EtJu3qDScZa65anltt8zlYzeoGg/udDg=="/>
     </item>
   </channel>
 </rss>
