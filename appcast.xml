@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.78</title>
-      <pubDate>Fri, 06 Nov 2026 08:20:33 +0000</pubDate>
-      <sparkle:version>187</sparkle:version>
-      <sparkle:shortVersionString>0.1.78</sparkle:shortVersionString>
+      <title>Karya 0.1.79</title>
+      <pubDate>Fri, 06 Nov 2026 08:32:32 +0000</pubDate>
+      <sparkle:version>188</sparkle:version>
+      <sparkle:shortVersionString>0.1.79</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>「캘린더 불러오기」에 달력을 넣었습니다. 시작일과 끝일을 눌러 원하는 기간을 고르고, 오늘·이번 주·다음 주·이번 달도 한 번에 고를 수 있습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.78.zip" length="6027213" type="application/octet-stream" sparkle:edSignature="mK1v8MVh7EsZKw4nxWYe6/LSnLvSkvGBbrqPusiTGAX6TlsREekWYYrwjlC7peaiiLWxGSfdx2zt75o4fS42CA=="/>
+      <description><![CDATA[<ul><li>달력에서 고른 기간이 파란 띠로 또렷하게 보입니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.79.zip" length="6029372" type="application/octet-stream" sparkle:edSignature="/rXT6KQLNDUbRBl9KCNYNvfvPcqKNaNch0PmlG+iteHiQQ0W7miP/noYc0KsDQIqaLl8+g6CAnxq05jSpOs1AQ=="/>
     </item>
   </channel>
 </rss>
