@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.84</title>
-      <pubDate>Fri, 06 Nov 2026 10:09:09 +0000</pubDate>
-      <sparkle:version>193</sparkle:version>
-      <sparkle:shortVersionString>0.1.84</sparkle:shortVersionString>
+      <title>Karya 0.1.85</title>
+      <pubDate>Sat, 07 Nov 2026 10:47:29 +0000</pubDate>
+      <sparkle:version>194</sparkle:version>
+      <sparkle:shortVersionString>0.1.85</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>여러 날에 걸친 종일 일정(연차 등)을 캘린더에서 불러오면 첫날만 잡히던 문제를 고쳤습니다.</li><li>내보내기·가져오기 같은 창 위로 카드 말풍선이 뜨지 않습니다.</li><li>분류 전 카드의 기록 위치 메뉴가 비어 보이지 않고 「없음」으로 나옵니다.</li><li>「검토할 것만」에서 Managed Type을 고른 뒤에도 그 단계가 사라지지 않습니다.</li><li>Jira 입력 현황의 합계가 기준 시간과 같은 기간(오늘 제외)으로 계산됩니다.</li><li>가져오기가 끝난 화면에 Google 캘린더 연결 안내를 넣었고, 빈 카드 목록 안내 문구를 고쳤습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.84.zip" length="6178952" type="application/octet-stream" sparkle:edSignature="JTN6l1+9t6dLQOm1UK81gP/1L0+1Q9Gldii0Oqb32c4OAdKJ5ZAAs0tUyDdJQU/BCR72uWm5upr0uBcXG5ZiAQ=="/>
+      <description><![CDATA[<ul><li>Jira로 보내다 중간에 실패해도 일감이 두 번 만들어지지 않습니다. 만들어진 일감과 작업 기록을 기억하고, 다시 보내면 남은 단계만 합니다.</li><li>고치기가 도중에 실패한 뒤 다시 보내면 자기 변경을 충돌로 보고 멈추던 문제를 고쳤습니다.</li><li>Jira 수정 화면에 없는 필드를 조용히 빼고 보냄으로 표시하지 않습니다. 못 보낸 필드 이름을 알리고 실패로 남깁니다.</li><li>보내는 중에 앱이 닫힌 블록을 다시 보낼 수 있습니다.</li><li>캘린더에 올리지 않은 일정 카드의 시각이 앱을 다시 켤 때 바뀌지 않습니다. 고친 시각과 여러 날 일정의 기간이 그대로 남습니다.</li><li>가져오기 「합치기」에서 근무일마다 나눈 휴가 카드가 한 장으로 덮여 하루가 사라지던 문제를 고쳤습니다. 카드는 같은 id끼리 먼저 맞추고, 「이 맥에만 있는 카드」 수도 바르게 셉니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.85.zip" length="6202763" type="application/octet-stream" sparkle:edSignature="NhDUQ/JxjkLep71NdDEsAAhjhH3V9stWo5Ju9xaDGz31j60/CkiRiVvwSQO7v6bi+t4Hn+fbUui6KTazCzIpCA=="/>
     </item>
   </channel>
 </rss>
