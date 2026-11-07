@@ -3,13 +3,13 @@
   <channel>
     <title>Karya</title>
     <item>
-      <title>Karya 0.1.86</title>
-      <pubDate>Sat, 07 Nov 2026 14:26:53 +0000</pubDate>
-      <sparkle:version>195</sparkle:version>
-      <sparkle:shortVersionString>0.1.86</sparkle:shortVersionString>
+      <title>Karya 0.1.87</title>
+      <pubDate>Sat, 07 Nov 2026 15:19:48 +0000</pubDate>
+      <sparkle:version>196</sparkle:version>
+      <sparkle:shortVersionString>0.1.87</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>WorkType 구조 창의 상자를 넓혀 긴 항목도 제목과 설명이 두 줄 안에 들어갑니다. 설명은 최대 두 줄이고 넘치면 줄임표로 끝납니다. 창 기본 폭도 넓어졌습니다.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.86.zip" length="6203783" type="application/octet-stream" sparkle:edSignature="ffngC2W5AU4Z4fZ2ho9FpAq+B7Mff5YZgwmHgkAHUe0JcLhLVp0pOpwoWZ0Ejo3lhpIbEMaWZ0ajQogNBuRwCQ=="/>
+      <description><![CDATA[<ul><li>「Karya 사용팁」을 추가했습니다. 상단 바 설정 옆 「?」, ⌘?, 도움말 메뉴에서 열고, 자주 쓰는 기능과 알려 주지 않으면 모르는 팁 18장을 한 장씩 화면 조각과 함께 넘겨 봅니다. 마지막으로 본 팁부터 다시 열립니다.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/karya-releases/main/releases/Karya-0.1.87.zip" length="6595628" type="application/octet-stream" sparkle:edSignature="d/8RqvQrx8Qq8WZDy7KvNM+4CWfks9bMfmMaZc05GcfmWUro28g4db7nPVZSEI/cdkVmF/+35bvHg9+7u4tqAA=="/>
     </item>
   </channel>
 </rss>
